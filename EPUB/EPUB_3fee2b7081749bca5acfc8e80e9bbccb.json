@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/uyen-uong-dao_20779.html",
+    "title" : "Uyên Ương Đao",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 8350,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_3fee2b7081749bca5acfc8e80e9bbccb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_3fee2b7081749bca5acfc8e80e9bbccb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "uyen-uong (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "uyen-uong (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "uyen-uong (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "uyen-uong (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_1.mp3",
+    "title" : "uyen-uong (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_2.mp3",
+    "title" : "uyen-uong (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_3.mp3",
+    "title" : "uyen-uong (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_4.mp3",
+    "title" : "uyen-uong (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
