@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dinh-duong-xanh_20286.html",
+    "title" : "Dinh Dưỡng Xanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Victoria Boutenko",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-31",
+    "duration" : 19233,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_b000f99529cd76e13e0393bab7d891fa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_b000f99529cd76e13e0393bab7d891fa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_3985aad9b6f815438acccf4f0c22ac2f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_3985aad9b6f815438acccf4f0c22ac2f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_773debd459041d8ce135f54f90670a91_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_773debd459041d8ce135f54f90670a91_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ec78b662cdb88ec3bcea4a0097ee521a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ec78b662cdb88ec3bcea4a0097ee521a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_4bed5c796018e9ad7251ab8df79a1155_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_4bed5c796018e9ad7251ab8df79a1155_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ee7ec510ea7e3e467d8ca9ce5f317b21_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-5 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ee7ec510ea7e3e467d8ca9ce5f317b21_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dinh-duong-5 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_3985aad9b6f815438acccf4f0c22ac2f_1.mp3",
+    "title" : "dinh-duong-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_3985aad9b6f815438acccf4f0c22ac2f_2.mp3",
+    "title" : "dinh-duong-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_773debd459041d8ce135f54f90670a91_1.mp3",
+    "title" : "dinh-duong-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_773debd459041d8ce135f54f90670a91_2.mp3",
+    "title" : "dinh-duong-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ec78b662cdb88ec3bcea4a0097ee521a_1.mp3",
+    "title" : "dinh-duong-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ec78b662cdb88ec3bcea4a0097ee521a_2.mp3",
+    "title" : "dinh-duong-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_4bed5c796018e9ad7251ab8df79a1155_1.mp3",
+    "title" : "dinh-duong-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_4bed5c796018e9ad7251ab8df79a1155_2.mp3",
+    "title" : "dinh-duong-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ee7ec510ea7e3e467d8ca9ce5f317b21_1.mp3",
+    "title" : "dinh-duong-5 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b000f99529cd76e13e0393bab7d891fa_ee7ec510ea7e3e467d8ca9ce5f317b21_2.mp3",
+    "title" : "dinh-duong-5 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
