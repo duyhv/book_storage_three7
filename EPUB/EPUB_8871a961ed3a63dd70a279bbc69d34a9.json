@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngay-hom-qua-mat-biec_20438.html",
+    "title" : "Ngày Hôm Qua Mắt Biếc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kai Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-31",
+    "duration" : 6877,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_8871a961ed3a63dd70a279bbc69d34a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_8871a961ed3a63dd70a279bbc69d34a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngay-hom (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngay-hom (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngay-hom (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngay-hom (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngay-hom (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_1.mp3",
+    "title" : "ngay-hom (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_2.mp3",
+    "title" : "ngay-hom (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_3.mp3",
+    "title" : "ngay-hom (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_4.mp3",
+    "title" : "ngay-hom (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_5.mp3",
+    "title" : "ngay-hom (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
