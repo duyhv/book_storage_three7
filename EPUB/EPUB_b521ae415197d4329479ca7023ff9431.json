@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muoi-dem-nga-ngoc_20762.html",
+    "title" : "Mười Đêm Ngà Ngọc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mai Thảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 17508,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_b521ae415197d4329479ca7023ff9431.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_b521ae415197d4329479ca7023ff9431.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_b2aa80077258fb8a0ffa24769c86df04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_f3989c16dd191fdb9b7b7e5f8400a51c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1771,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_b9ee78d66c2b6019471588ab34d0b98c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1742,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_14a6017b5ccd56585d5f308638122301.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1742,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_02348bf917004d4446adee219215978f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_eaeff126551a8114d7c5be6efa3f0807.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_636d90a21485492e67c45e8a079559e4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1665,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_4668e304110079c9a73a149c451babaa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_e534002d0a8357ec952792ca34709a6c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1739,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_1e245bf214ad3774c184cf9903cf1840.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1765,
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_b2aa80077258fb8a0ffa24769c86df04.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_f3989c16dd191fdb9b7b7e5f8400a51c.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_b9ee78d66c2b6019471588ab34d0b98c.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_14a6017b5ccd56585d5f308638122301.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_02348bf917004d4446adee219215978f.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_eaeff126551a8114d7c5be6efa3f0807.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_636d90a21485492e67c45e8a079559e4.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_4668e304110079c9a73a149c451babaa.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_e534002d0a8357ec952792ca34709a6c.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b521ae415197d4329479ca7023ff9431_1e245bf214ad3774c184cf9903cf1840.mp3",
+    "title" : "Muoi Dem Nga Ngoc (Mai Thao) 11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
