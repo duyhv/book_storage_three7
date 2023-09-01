@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh_13533.html",
+    "title" : "Cuộc Sống Bình Thản Hoàn Mỹ Sau Khi Trùng Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hạo Trăn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 32493,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_51a680b47b72b70a7f2aa73732601643.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_51a680b47b72b70a7f2aa73732601643.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_44c8d46dee47c83aeb2b3011d9c6cc8c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 1 ] - MC HUÊ LEO (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_44c8d46dee47c83aeb2b3011d9c6cc8c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 1 ] - MC HUÊ LEO (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_ae24c965dabb8a7c0c121e2bfeb513c2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 2 ] - MC HUÊ LEO (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_ae24c965dabb8a7c0c121e2bfeb513c2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 2 ] - MC HUÊ LEO (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_03f4adf50639280d14b61884b1aadce9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 3 ] - MC HUÊ LEO (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_03f4adf50639280d14b61884b1aadce9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 3 ] - MC HUÊ LEO (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_9f935df6f0db668b1432b61353f61386_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 4 HẾT ] - MC HUÊ LEO (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_9f935df6f0db668b1432b61353f61386_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 4 HẾT ] - MC HUÊ LEO (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_44c8d46dee47c83aeb2b3011d9c6cc8c_1.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 1 ] - MC HUÊ LEO (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_44c8d46dee47c83aeb2b3011d9c6cc8c_2.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 1 ] - MC HUÊ LEO (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_ae24c965dabb8a7c0c121e2bfeb513c2_1.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 2 ] - MC HUÊ LEO (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_ae24c965dabb8a7c0c121e2bfeb513c2_2.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 2 ] - MC HUÊ LEO (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_03f4adf50639280d14b61884b1aadce9_1.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 3 ] - MC HUÊ LEO (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_03f4adf50639280d14b61884b1aadce9_2.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 3 ] - MC HUÊ LEO (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_9f935df6f0db668b1432b61353f61386_1.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 4 HẾT ] - MC HUÊ LEO (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_51a680b47b72b70a7f2aa73732601643_9f935df6f0db668b1432b61353f61386_2.mp3",
+    "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 4 HẾT ] - MC HUÊ LEO (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
