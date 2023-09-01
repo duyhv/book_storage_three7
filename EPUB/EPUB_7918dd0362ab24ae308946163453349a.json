@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_7918dd0362ab24ae308946163453349a.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_7918dd0362ab24ae308946163453349a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_7918dd0362ab24ae308946163453349a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_7918dd0362ab24ae308946163453349a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_7918dd0362ab24ae308946163453349a_8af566009b25dd9c1eab8ccc7249aef3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_7918dd0362ab24ae308946163453349a_8af566009b25dd9c1eab8ccc7249aef3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4939,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_7918dd0362ab24ae308946163453349a_8af566009b25dd9c1eab8ccc7249aef3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_7918dd0362ab24ae308946163453349a_8af566009b25dd9c1eab8ccc7249aef3.mp3",
     "title" : "phia-sau",
     "children" : [ ]
   } ],

@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_69a45441f97baadf14539c0ecf7778d4.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_69a45441f97baadf14539c0ecf7778d4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_69a45441f97baadf14539c0ecf7778d4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_69a45441f97baadf14539c0ecf7778d4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_1.mp3",
     "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_2.mp3",
     "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_3.mp3",
     "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_4.mp3",
     "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_69a45441f97baadf14539c0ecf7778d4_48c1a7ead91c5856ecb366b19c73fca2_5.mp3",
     "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay (5)",
     "children" : [ ]
   } ],

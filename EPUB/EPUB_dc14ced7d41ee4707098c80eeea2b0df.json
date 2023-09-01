@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_dc14ced7d41ee4707098c80eeea2b0df.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_dc14ced7d41ee4707098c80eeea2b0df.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_dc14ced7d41ee4707098c80eeea2b0df.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_dc14ced7d41ee4707098c80eeea2b0df.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_1.mp3",
     "title" : "tim-kiem (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_2.mp3",
     "title" : "tim-kiem (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_3.mp3",
     "title" : "tim-kiem (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_4.mp3",
     "title" : "tim-kiem (4)",
     "children" : [ ]
   } ],

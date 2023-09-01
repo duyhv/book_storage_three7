@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_03644d237bec8dd79f3000f257c0a8f0.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_03644d237bec8dd79f3000f257c0a8f0.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_03644d237bec8dd79f3000f257c0a8f0.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_03644d237bec8dd79f3000f257c0a8f0.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_10e524acbdf6c06606435a116da5bc38.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_10e524acbdf6c06606435a116da5bc38.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2689,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_821c7b4a4ff63b4356e71fbeb8bc88f2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_821c7b4a4ff63b4356e71fbeb8bc88f2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2603,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_10e524acbdf6c06606435a116da5bc38.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_10e524acbdf6c06606435a116da5bc38.mp3",
     "title" : "KHU RUNG KY DIEU 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_821c7b4a4ff63b4356e71fbeb8bc88f2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_821c7b4a4ff63b4356e71fbeb8bc88f2.mp3",
     "title" : "KHU RUNG KY DIEU 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_1.mp3",
     "title" : "KHU RUNG KY DIEU 03 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_2.mp3",
     "title" : "KHU RUNG KY DIEU 03 (2)",
     "children" : [ ]
   } ],

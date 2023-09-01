@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_96b20014afd0a8c1c1257bd39e13bcc3.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_96b20014afd0a8c1c1257bd39e13bcc3.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_96b20014afd0a8c1c1257bd39e13bcc3.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_96b20014afd0a8c1c1257bd39e13bcc3.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_ffb563118c56a5d453a16eea522d29f3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_ffb563118c56a5d453a16eea522d29f3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1594,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_728a27b29a82d227c4db2a1ef14a9ce1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_728a27b29a82d227c4db2a1ef14a9ce1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1981,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_1.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-01-www.phatphapungdung.com (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_87d11858c1be574af3e75c86c4ebe840_2.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-01-www.phatphapungdung.com (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_1.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-02-www.phatphapungdung.com (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_08ee6a75aea2996e9ab608d9b953309d_2.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-02-www.phatphapungdung.com (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_ffb563118c56a5d453a16eea522d29f3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_ffb563118c56a5d453a16eea522d29f3.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-03-www.phatphapungdung.com",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_728a27b29a82d227c4db2a1ef14a9ce1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_96b20014afd0a8c1c1257bd39e13bcc3_728a27b29a82d227c4db2a1ef14a9ce1.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-04-www.phatphapungdung.com",
     "children" : [ ]
   } ],

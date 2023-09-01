@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_937155ac807cd89420e763d0195e96e4.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_937155ac807cd89420e763d0195e96e4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_937155ac807cd89420e763d0195e96e4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_937155ac807cd89420e763d0195e96e4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6a347d43d8be480adad2c8c8eaed8999.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6a347d43d8be480adad2c8c8eaed8999.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2016,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ba35beb84eb3ca03c2daae8b410fff3c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ba35beb84eb3ca03c2daae8b410fff3c.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1626,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -165,67 +165,67 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6a347d43d8be480adad2c8c8eaed8999.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6a347d43d8be480adad2c8c8eaed8999.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 1 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_1.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 2 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_bb7c14467c2cf216769ea0145fab3053_2.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 2 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_1.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 3 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_b14d96c3e28f8ee809ced50f08dceabe_2.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 3 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_1.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 4 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_a32d1beb3b01436bd669f24360218615_2.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 4 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_1.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 5 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_0b6ea285c2b01de48e41fcb77692357d_2.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 5 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ba35beb84eb3ca03c2daae8b410fff3c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ba35beb84eb3ca03c2daae8b410fff3c.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 6 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_1.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 7 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_6deacd1e4c784ade6b4336212fef7590_2.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 7 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_1.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 8 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_ffeb2140b0ccbb832e0b5ae1250faccd_2.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 8 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_1.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 9 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_937155ac807cd89420e763d0195e96e4_51c3ea851c7db65f284d5756883a1a97_2.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 2   tập 9 (192kbit AAC) (2)",
     "children" : [ ]
   } ],

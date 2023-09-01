@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_b4411138a3937594fcc64c51e2e41c0b.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_b4411138a3937594fcc64c51e2e41c0b.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_b4411138a3937594fcc64c51e2e41c0b.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_b4411138a3937594fcc64c51e2e41c0b.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_cc63787bfd87dfb0c2ee161b1a593966.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_cc63787bfd87dfb0c2ee161b1a593966.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1976,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_f02b4e7be0dea1997785bc6c1546131c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_f02b4e7be0dea1997785bc6c1546131c.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1888,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b517c336ed6ceca7ad43099cbc0e6548.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b517c336ed6ceca7ad43099cbc0e6548.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 899,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b92b9c099b628b5f61f20f4e11e87ceb.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b92b9c099b628b5f61f20f4e11e87ceb.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1988,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_cc63787bfd87dfb0c2ee161b1a593966.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_cc63787bfd87dfb0c2ee161b1a593966.mp3",
     "title" : "song-an-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_f02b4e7be0dea1997785bc6c1546131c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_f02b4e7be0dea1997785bc6c1546131c.mp3",
     "title" : "song-an-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b517c336ed6ceca7ad43099cbc0e6548.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b517c336ed6ceca7ad43099cbc0e6548.mp3",
     "title" : "song-an-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b92b9c099b628b5f61f20f4e11e87ceb.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_b4411138a3937594fcc64c51e2e41c0b_b92b9c099b628b5f61f20f4e11e87ceb.mp3",
     "title" : "song-an-4",
     "children" : [ ]
   } ],
