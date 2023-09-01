@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-phap_20871.html",
+    "title" : "Tâm Pháp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Tứ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-07",
+    "duration" : 42445,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_21f4956c442774adbb3d63cc0f6b6e77.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_21f4956c442774adbb3d63cc0f6b6e77.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1577,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1915,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1521,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1793,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "SÁCH NÓI TÂM PHÁP -LÝ TỨ -",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2209,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1936,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2355,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1849,
+    "title" : "LÝ TỨ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2746,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2368,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2965,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2145,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1915,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1332,
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-01.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-02.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-03.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-04.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-05.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-06.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-07.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-08.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP -LÝ TỨ -",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-09.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-10.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-11.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-12.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-13.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-14.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-15.mp3",
+    "title" : "LÝ TỨ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-16.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-17.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-18.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-19.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-20.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-phap-18/tam-phap-21.mp3",
+    "title" : "SÁCH NÓI TÂM PHÁP",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

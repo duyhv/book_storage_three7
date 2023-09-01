@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bach-tuong-va-nu-tuong_20186.html",
+    "title" : "Bạch Tượng Và Nữ Tướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sử Văn Các",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 3658,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_22c24f36b23186ed1efb986644ba04f9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_22c24f36b23186ed1efb986644ba04f9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_1.mp3",
+    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_2.mp3",
+    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
