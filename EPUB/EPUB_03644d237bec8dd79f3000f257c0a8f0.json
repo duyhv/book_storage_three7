@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khu-rung-ky-dieu_20777.html",
+    "title" : "Khu Rừng Kỳ Diệu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Evelyn Sasamoto",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 9193,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_03644d237bec8dd79f3000f257c0a8f0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_03644d237bec8dd79f3000f257c0a8f0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_10e524acbdf6c06606435a116da5bc38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2689,
+    "title" : "KHU RUNG KY DIEU 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_821c7b4a4ff63b4356e71fbeb8bc88f2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "KHU RUNG KY DIEU 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "KHU RUNG KY DIEU 03 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "KHU RUNG KY DIEU 03 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_10e524acbdf6c06606435a116da5bc38.mp3",
+    "title" : "KHU RUNG KY DIEU 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_821c7b4a4ff63b4356e71fbeb8bc88f2.mp3",
+    "title" : "KHU RUNG KY DIEU 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_1.mp3",
+    "title" : "KHU RUNG KY DIEU 03 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_03644d237bec8dd79f3000f257c0a8f0_88436aeef21ec535d69d533e13621847_2.mp3",
+    "title" : "KHU RUNG KY DIEU 03 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
