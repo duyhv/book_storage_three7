@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuyen-tap-tho-hay_20677.html",
+    "title" : "Tuyển Tập Thơ Hay",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 31816,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_d6e269f31afade1791fdbf8b82e826c3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_d6e269f31afade1791fdbf8b82e826c3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_161caf7eb880f865a368cab7ccfce001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "CHINH PHỤ NGÂM | Đặng Trần Côn | Đoàn Thị Điểm | Ngọc Sen Voice 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_b7eb876a9d8f5fb0e09a6bf74c27cb50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1201,
+    "title" : "CHẾ LAN VIÊN | TIẾNG HÁT CON TÀU và các bài thơ hay tiêu biểu | Ngọc Sen Voice 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_f6aec15290e31dca02dd946ddbe9187c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 950,
+    "title" : "CÒN DUYÊN HẾT DUYÊN và chuyện Ở VẬY trong CA DAO VIỆT | Ngọc Sen Voice 89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_796f00438326f9ea4ea20d153a1effb5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 907,
+    "title" : "HUY CẬN | Tràng Giang | Áo Trắng | Đoàn Thuyền Đánh Cá và các bài thơ tiêu biểu | Ngọc Sen Voice 104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_7abd452ff94f751dc78cf294f085daee.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1406,
+    "title" : "HÀN MẶC TỬ | Tập thơ GÁI QUÊ và những bài thơ hay | NSV76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_8fac379a07e885ed0fb512711e23d0b9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "HÀN MẶC TỬ | ĐAU THƯƠNG | Đây Thôn Vĩ Dạ và những bài THƠ ĐIÊN hay nhất | NSV70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_5b06604b90679c11924776f3c75aeedf.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1498,
+    "title" : "Phố | Phan Vũ | Em ơi Hà Nội phố | Phú Quang | Ngọc Sen Voice 98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_c83b59ad216d47f4a6ef59b039bbacf8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1616,
+    "title" : "Thơ HOÀNG CẦM | Lá Diêu Bông_Bên Kia Sông Đuống_Hận Nam Quan và các tác phẩm tiêu biểu | 114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d52cf3959f195231c79d9eb1c16c495d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 952,
+    "title" : "Thơ LƯU QUANG VŨ | Tác giả Cây táo nở hoa Phố Ta | Áo Cũ và các bài thơ tiêu biểu | NSV 108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_39c885125776164bbe5bcbe485efd4f0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 951,
+    "title" : "Thơ LƯU TRỌNG LƯ | Tiếng Thu | Nắng Mới | Tình Điên và các bài thơ tiêu biểu | Ngọc Sen Voice 102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_2716ead1d4556c24b59d967cb9e21283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "Thơ NGUYỄN DUY | Tre Việt Nam_Ánh Trăng_Đò Lèn_Đánh Thức Tiềm Lực và những bài Thơ tiêu biểu | 85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_466034d04931d74b55cda2b8aa36d6e1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 668,
+    "title" : "Thơ TTKh | Hai Sắc Hoa Tigôn và 3 bài thơ tình còn lại | Ngọc Sen Voice 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_84a405276eec2c3188d6b45d2d388fff_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Thơ LỤC VÂN TIÊN | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần I/II Hồi 01-10 |75 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_84a405276eec2c3188d6b45d2d388fff_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Thơ LỤC VÂN TIÊN | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần I/II Hồi 01-10 |75 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_174295c2defbe9936345a663b4342fa7_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Thơ Lục Vân Tiên | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần cuối (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_174295c2defbe9936345a663b4342fa7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Thơ Lục Vân Tiên | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần cuối (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_62a12fd21f80f40195583f62c8e5c2b6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1078,
+    "title" : "Trần Đăng Khoa | Hạt Gạo Làng Ta | Góc Sân Và Khoảng Trời cùng những bài thơ hay | Ngọc Sen Voice 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d2fbef01fd3ecabb4183941f4c6e1d43_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TỐ HỮU | Việt Bắc | Lượm | Bầm Ơi và những bài thơ tiêu biểu | Ngọc Sen Voice 103 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d2fbef01fd3ecabb4183941f4c6e1d43_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TỐ HỮU | Việt Bắc | Lượm | Bầm Ơi và những bài thơ tiêu biểu | Ngọc Sen Voice 103 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d1f539e811854a406aec042416522456.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2113,
+    "title" : "XUÂN DIỆU | THƠ THƠ | Vội Vàng và các bài thơ hay (Phần II) | Ông Hoàng Thơ Tình | NSV72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_e4f7ed401f27b4420bbf4c8bec5e2f5b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1621,
+    "title" : "XUÂN DIỆU | THƠ THƠ | Đây Mùa Thu Tới và các bài thơ hay (Phần I) | Ông Hoàng Thơ Tình | NSV71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_4ba98849ce5a8de0fdaf4d97ce6c591b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "XUÂN QUỲNH | Những bài thơ ngọt ngào nhất | Sóng_Thuyền Và Biển_Tự Hát_Mẹ Của Anh_Bàn Tay Em | 84",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_161caf7eb880f865a368cab7ccfce001.mp3",
+    "title" : "CHINH PHỤ NGÂM | Đặng Trần Côn | Đoàn Thị Điểm | Ngọc Sen Voice 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_b7eb876a9d8f5fb0e09a6bf74c27cb50.mp3",
+    "title" : "CHẾ LAN VIÊN | TIẾNG HÁT CON TÀU và các bài thơ hay tiêu biểu | Ngọc Sen Voice 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_f6aec15290e31dca02dd946ddbe9187c.mp3",
+    "title" : "CÒN DUYÊN HẾT DUYÊN và chuyện Ở VẬY trong CA DAO VIỆT | Ngọc Sen Voice 89",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_796f00438326f9ea4ea20d153a1effb5.mp3",
+    "title" : "HUY CẬN | Tràng Giang | Áo Trắng | Đoàn Thuyền Đánh Cá và các bài thơ tiêu biểu | Ngọc Sen Voice 104",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_7abd452ff94f751dc78cf294f085daee.mp3",
+    "title" : "HÀN MẶC TỬ | Tập thơ GÁI QUÊ và những bài thơ hay | NSV76",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_8fac379a07e885ed0fb512711e23d0b9.mp3",
+    "title" : "HÀN MẶC TỬ | ĐAU THƯƠNG | Đây Thôn Vĩ Dạ và những bài THƠ ĐIÊN hay nhất | NSV70",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_5b06604b90679c11924776f3c75aeedf.mp3",
+    "title" : "Phố | Phan Vũ | Em ơi Hà Nội phố | Phú Quang | Ngọc Sen Voice 98",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_c83b59ad216d47f4a6ef59b039bbacf8.mp3",
+    "title" : "Thơ HOÀNG CẦM | Lá Diêu Bông_Bên Kia Sông Đuống_Hận Nam Quan và các tác phẩm tiêu biểu | 114",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d52cf3959f195231c79d9eb1c16c495d.mp3",
+    "title" : "Thơ LƯU QUANG VŨ | Tác giả Cây táo nở hoa Phố Ta | Áo Cũ và các bài thơ tiêu biểu | NSV 108",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_39c885125776164bbe5bcbe485efd4f0.mp3",
+    "title" : "Thơ LƯU TRỌNG LƯ | Tiếng Thu | Nắng Mới | Tình Điên và các bài thơ tiêu biểu | Ngọc Sen Voice 102",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_2716ead1d4556c24b59d967cb9e21283.mp3",
+    "title" : "Thơ NGUYỄN DUY | Tre Việt Nam_Ánh Trăng_Đò Lèn_Đánh Thức Tiềm Lực và những bài Thơ tiêu biểu | 85",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_466034d04931d74b55cda2b8aa36d6e1.mp3",
+    "title" : "Thơ TTKh | Hai Sắc Hoa Tigôn và 3 bài thơ tình còn lại | Ngọc Sen Voice 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_84a405276eec2c3188d6b45d2d388fff_1.mp3",
+    "title" : "Truyện Thơ LỤC VÂN TIÊN | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần I/II Hồi 01-10 |75 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_84a405276eec2c3188d6b45d2d388fff_2.mp3",
+    "title" : "Truyện Thơ LỤC VÂN TIÊN | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần I/II Hồi 01-10 |75 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_174295c2defbe9936345a663b4342fa7_1.mp3",
+    "title" : "Truyện Thơ Lục Vân Tiên | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần cuối (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_174295c2defbe9936345a663b4342fa7_2.mp3",
+    "title" : "Truyện Thơ Lục Vân Tiên | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần cuối (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_62a12fd21f80f40195583f62c8e5c2b6.mp3",
+    "title" : "Trần Đăng Khoa | Hạt Gạo Làng Ta | Góc Sân Và Khoảng Trời cùng những bài thơ hay | Ngọc Sen Voice 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d2fbef01fd3ecabb4183941f4c6e1d43_1.mp3",
+    "title" : "TỐ HỮU | Việt Bắc | Lượm | Bầm Ơi và những bài thơ tiêu biểu | Ngọc Sen Voice 103 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d2fbef01fd3ecabb4183941f4c6e1d43_2.mp3",
+    "title" : "TỐ HỮU | Việt Bắc | Lượm | Bầm Ơi và những bài thơ tiêu biểu | Ngọc Sen Voice 103 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_d1f539e811854a406aec042416522456.mp3",
+    "title" : "XUÂN DIỆU | THƠ THƠ | Vội Vàng và các bài thơ hay (Phần II) | Ông Hoàng Thơ Tình | NSV72",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_e4f7ed401f27b4420bbf4c8bec5e2f5b.mp3",
+    "title" : "XUÂN DIỆU | THƠ THƠ | Đây Mùa Thu Tới và các bài thơ hay (Phần I) | Ông Hoàng Thơ Tình | NSV71",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_d6e269f31afade1791fdbf8b82e826c3_4ba98849ce5a8de0fdaf4d97ce6c591b.mp3",
+    "title" : "XUÂN QUỲNH | Những bài thơ ngọt ngào nhất | Sóng_Thuyền Và Biển_Tự Hát_Mẹ Của Anh_Bàn Tay Em | 84",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
