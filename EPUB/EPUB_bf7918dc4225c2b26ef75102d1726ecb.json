@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-mien-linh-di-thai-lan_12295.html",
+    "title" : "Những Miền Linh Dị - Thái Lan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dương Hành Triệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 21871,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_bf7918dc4225c2b26ef75102d1726ecb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_bf7918dc4225c2b26ef75102d1726ecb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_5ba326c91d6bb914729713c7c6f8f30e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "[Tập 1] Mc Đình Soạn l Cánh Diều Da Người l Truyện ma có thật Thái Lan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_233b1f190b5fc6bca102ea5b1a8df497_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 2] Mc Đình Soạn l Sông Nuôi Xác l Truyện ma có thật Thái Lan (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_233b1f190b5fc6bca102ea5b1a8df497_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 2] Mc Đình Soạn l Sông Nuôi Xác l Truyện ma có thật Thái Lan (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_5aca2fe050f3c4c91118ef62ac114d36_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 3] Mc Đình Soạn l Nhộng Người l Truyện ma có thật mới nhất Thái Lan (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_5aca2fe050f3c4c91118ef62ac114d36_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 3] Mc Đình Soạn l Nhộng Người l Truyện ma có thật mới nhất Thái Lan (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_8a56341023717306cf17f1a22339e3ae.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1862,
+    "title" : "[Tập 4] Mc Đình Soạn l Cổ Sói Mắt Đỏ l Truyện ma có thật mới nhất Thái Lan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_a36b5d9f854ed68b9e284c378d03c76c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 5] Mc Đình Soạn l Bích Họa Tuyệt Sắc l Truyện ma có thật mới nhất Thái Lan (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_a36b5d9f854ed68b9e284c378d03c76c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 5] Mc Đình Soạn l Bích Họa Tuyệt Sắc l Truyện ma có thật mới nhất Thái Lan (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_623afb48bce3313823ca2698c744de51_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 6] l Thần Rắn Hai Đầu l Truyện ma có thật mới nhất Thái Lan (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_623afb48bce3313823ca2698c744de51_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 6] l Thần Rắn Hai Đầu l Truyện ma có thật mới nhất Thái Lan (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_99d789797f4aaf3cb2713f5202b31abb_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 7] l Mc Đình Soạn l Rừng Sâu Vạn Độc l Truyện ma có thật mới nhất Thái Lan (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_99d789797f4aaf3cb2713f5202b31abb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "[Tập 7] l Mc Đình Soạn l Rừng Sâu Vạn Độc l Truyện ma có thật mới nhất Thái Lan (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_6aedbb1a9b7ef1d1952b868ffdf9fc5f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1895,
+    "title" : "[Tập 8] l Mc Đình Soạn l Ma Cỏ l Truyện ma có thật mới nhất Thái Lan",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_5ba326c91d6bb914729713c7c6f8f30e.mp3",
+    "title" : "[Tập 1] Mc Đình Soạn l Cánh Diều Da Người l Truyện ma có thật Thái Lan",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_233b1f190b5fc6bca102ea5b1a8df497_1.mp3",
+    "title" : "[Tập 2] Mc Đình Soạn l Sông Nuôi Xác l Truyện ma có thật Thái Lan (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_233b1f190b5fc6bca102ea5b1a8df497_2.mp3",
+    "title" : "[Tập 2] Mc Đình Soạn l Sông Nuôi Xác l Truyện ma có thật Thái Lan (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_5aca2fe050f3c4c91118ef62ac114d36_1.mp3",
+    "title" : "[Tập 3] Mc Đình Soạn l Nhộng Người l Truyện ma có thật mới nhất Thái Lan (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_5aca2fe050f3c4c91118ef62ac114d36_2.mp3",
+    "title" : "[Tập 3] Mc Đình Soạn l Nhộng Người l Truyện ma có thật mới nhất Thái Lan (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_8a56341023717306cf17f1a22339e3ae.mp3",
+    "title" : "[Tập 4] Mc Đình Soạn l Cổ Sói Mắt Đỏ l Truyện ma có thật mới nhất Thái Lan",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_a36b5d9f854ed68b9e284c378d03c76c_1.mp3",
+    "title" : "[Tập 5] Mc Đình Soạn l Bích Họa Tuyệt Sắc l Truyện ma có thật mới nhất Thái Lan (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_a36b5d9f854ed68b9e284c378d03c76c_2.mp3",
+    "title" : "[Tập 5] Mc Đình Soạn l Bích Họa Tuyệt Sắc l Truyện ma có thật mới nhất Thái Lan (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_623afb48bce3313823ca2698c744de51_1.mp3",
+    "title" : "[Tập 6] l Thần Rắn Hai Đầu l Truyện ma có thật mới nhất Thái Lan (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_623afb48bce3313823ca2698c744de51_2.mp3",
+    "title" : "[Tập 6] l Thần Rắn Hai Đầu l Truyện ma có thật mới nhất Thái Lan (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_99d789797f4aaf3cb2713f5202b31abb_1.mp3",
+    "title" : "[Tập 7] l Mc Đình Soạn l Rừng Sâu Vạn Độc l Truyện ma có thật mới nhất Thái Lan (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_99d789797f4aaf3cb2713f5202b31abb_2.mp3",
+    "title" : "[Tập 7] l Mc Đình Soạn l Rừng Sâu Vạn Độc l Truyện ma có thật mới nhất Thái Lan (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_bf7918dc4225c2b26ef75102d1726ecb_6aedbb1a9b7ef1d1952b868ffdf9fc5f.mp3",
+    "title" : "[Tập 8] l Mc Đình Soạn l Ma Cỏ l Truyện ma có thật mới nhất Thái Lan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
