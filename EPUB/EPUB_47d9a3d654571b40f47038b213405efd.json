@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thuat-xu-the_19901.html",
+    "title" : "Thuật Xử Thế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hòa Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-16",
+    "duration" : 8094,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_47d9a3d654571b40f47038b213405efd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_47d9a3d654571b40f47038b213405efd.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_1.mp3",
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_2.mp3",
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_3.mp3",
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_47d9a3d654571b40f47038b213405efd_426234d52bd076e5112b3e926e227fe7_4.mp3",
+    "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

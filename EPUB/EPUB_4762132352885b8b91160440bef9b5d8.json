@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-mot-mam-hoa-da-nhu-duoi-tro-tan_20665.html",
+    "title" : "Có Một Mầm Hoa Đã Nhú Dưới Tro Tàn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Minh Quốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-31",
+    "duration" : 25647,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_4762132352885b8b91160440bef9b5d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_4762132352885b8b91160440bef9b5d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_ba14e454c606c0bcecc2fdca78921722.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_ce70a9a8177cbc50d32268003a2058b4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_6d22cf46f9c29aba952e74a58fce0a74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_0d8ea5b940f7a46bccbff71b865b545d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2643,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_9ae0a8d53b9fe1d00588753d5cac9b4b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_d87d3212fd73c2be10274c31a551bdd7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2217,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_5a38deb1b28d3489fdfd1996568da82c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_dc4634e3abb69afda1076ce654653e5a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2621,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_fb4274cd2430f517860bb6d81519fb35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1878,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_cbe4d98bca568a769231a2fcecead32c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2897,
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_ba14e454c606c0bcecc2fdca78921722.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_ce70a9a8177cbc50d32268003a2058b4.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_6d22cf46f9c29aba952e74a58fce0a74.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_0d8ea5b940f7a46bccbff71b865b545d.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_9ae0a8d53b9fe1d00588753d5cac9b4b.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_d87d3212fd73c2be10274c31a551bdd7.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p06",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_5a38deb1b28d3489fdfd1996568da82c.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p07",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_dc4634e3abb69afda1076ce654653e5a.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p08",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_fb4274cd2430f517860bb6d81519fb35.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p09",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_4762132352885b8b91160440bef9b5d8_cbe4d98bca568a769231a2fcecead32c.mp3",
+    "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-thi-sau-con-nguoi-huyen-thoai_20333.html",
+    "title" : "Võ Thị Sáu, Con Người & Huyền Thoại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Thống",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 7601,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_48a33afe294b8ba23fd6621abc210f1a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_48a33afe294b8ba23fd6621abc210f1a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_977378e5be6b3d7be6cfd90e796d1d64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 183,
+    "title" : "VO THI SAU 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_528673de381fb976c36a32057b459624.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 931,
+    "title" : "VO THI SAU 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_682aae35180ee176bac9763af11b3970.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1025,
+    "title" : "VO THI SAU 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_805b5bab399f685eb5d6147251a1f7d9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1137,
+    "title" : "vo-thi-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_93e4f42a99985cba6f0336efac613a3c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1023,
+    "title" : "VO THI SAU 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_e33cade8fb4ea12a2f1f2a9c806b9e3e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1174,
+    "title" : "VO THI SAU 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_22c7f50e35c4335209a888947fd4b6ff.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2128,
+    "title" : "VO THI SAU 08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_977378e5be6b3d7be6cfd90e796d1d64.mp3",
+    "title" : "VO THI SAU 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_528673de381fb976c36a32057b459624.mp3",
+    "title" : "VO THI SAU 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_682aae35180ee176bac9763af11b3970.mp3",
+    "title" : "VO THI SAU 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_805b5bab399f685eb5d6147251a1f7d9.mp3",
+    "title" : "vo-thi-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_93e4f42a99985cba6f0336efac613a3c.mp3",
+    "title" : "VO THI SAU 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_e33cade8fb4ea12a2f1f2a9c806b9e3e.mp3",
+    "title" : "VO THI SAU 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_48a33afe294b8ba23fd6621abc210f1a_22c7f50e35c4335209a888947fd4b6ff.mp3",
+    "title" : "VO THI SAU 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
