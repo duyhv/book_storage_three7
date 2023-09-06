@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-31",
+    "published" : "2023-09-06",
     "duration" : 6877,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,75 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_8871a961ed3a63dd70a279bbc69d34a9.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_8871a961ed3a63dd70a279bbc69d34a9.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_8871a961ed3a63dd70a279bbc69d34a9.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_8871a961ed3a63dd70a279bbc69d34a9.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_1.mp3",
+    "href" : "https://archive.org/download/ngay-hom/ngay-hom.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngay-hom (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngay-hom (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngay-hom (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngay-hom (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngay-hom (5)",
+    "duration" : 6877,
+    "title" : "ngay-hom",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_1.mp3",
-    "title" : "ngay-hom (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_2.mp3",
-    "title" : "ngay-hom (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_3.mp3",
-    "title" : "ngay-hom (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_4.mp3",
-    "title" : "ngay-hom (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8871a961ed3a63dd70a279bbc69d34a9_e0d0f18971344c19163d8e014e295a97_5.mp3",
-    "title" : "ngay-hom (5)",
+    "href" : "https://archive.org/download/ngay-hom/ngay-hom.mp3",
+    "title" : "ngay-hom",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

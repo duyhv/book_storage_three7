@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 43342,
+    "published" : "2023-09-06",
+    "duration" : 69689,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_f30a4d3e8f2072c92668a86fdd9b509c.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_f30a4d3e8f2072c92668a86fdd9b509c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_f30a4d3e8f2072c92668a86fdd9b509c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_f30a4d3e8f2072c92668a86fdd9b509c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_0588373d92195aba2d2d7be3c2c456a6.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 614,
@@ -44,55 +44,31 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_76c51ee16feefd5ea740a3cb6128610b_1.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "10 (1)",
+    "duration" : 3099,
+    "title" : "10",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_76c51ee16feefd5ea740a3cb6128610b_2.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "10 (2)",
+    "duration" : 3146,
+    "title" : "11",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_f020f233bac41371fd391f855e3fc5e4_1.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "11 (1)",
+    "duration" : 3357,
+    "title" : "12",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_f020f233bac41371fd391f855e3fc5e4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "11 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_31a915cd24fbd8f60cd876ee6607adf3_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "12 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_31a915cd24fbd8f60cd876ee6607adf3_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "12 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_287b4b69622046e4fd60143cd87a936a.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2160,
@@ -100,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_45b423bc93a35d37fa3fb37ad3d9b96c.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2496,
@@ -108,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_4738d6fdfa100a781a1bf383269337c6.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1580,
@@ -116,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_e8993d32e3c8eba7e5d19702504d580c.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1555,
@@ -124,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_f9edb09acadf1e268b47be1909f0c969.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1130,
@@ -132,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_0673a4c19b18d4a1ea28306c0ea58380.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1580,
@@ -140,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_b0215786406152852e59501a562b63e3.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1763,
@@ -148,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_73795d755699bf19676cc821fe66b34b.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3023,
@@ -156,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_2ff2b663184cf48ccc31f7f65bdbb177.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2845,
@@ -164,23 +140,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_11c17ce40319d1afa7d1424342dc2898_1.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "5 (1)",
+    "duration" : 3289,
+    "title" : "5",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_11c17ce40319d1afa7d1424342dc2898_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "5 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_52f7517d419740d1f1b2ef1e1fa11cb4.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2198,
@@ -188,23 +156,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_45ce640768b16d9bf4181d957cc4af31_1.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "7 (1)",
+    "duration" : 4104,
+    "title" : "7",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_45ce640768b16d9bf4181d957cc4af31_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "7 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_06339bc0b532d52c8ac71c3d08efe686.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2894,
@@ -212,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_ea1bc8771c9b1974ce0135203434d482.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2509,
@@ -221,95 +181,75 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_0588373d92195aba2d2d7be3c2c456a6.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_76c51ee16feefd5ea740a3cb6128610b_1.mp3",
-    "title" : "10 (1)",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/10.mp3",
+    "title" : "10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_76c51ee16feefd5ea740a3cb6128610b_2.mp3",
-    "title" : "10 (2)",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/11.mp3",
+    "title" : "11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_f020f233bac41371fd391f855e3fc5e4_1.mp3",
-    "title" : "11 (1)",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/12.mp3",
+    "title" : "12",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_f020f233bac41371fd391f855e3fc5e4_2.mp3",
-    "title" : "11 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_31a915cd24fbd8f60cd876ee6607adf3_1.mp3",
-    "title" : "12 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_31a915cd24fbd8f60cd876ee6607adf3_2.mp3",
-    "title" : "12 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_287b4b69622046e4fd60143cd87a936a.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/13.mp3",
     "title" : "13",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_45b423bc93a35d37fa3fb37ad3d9b96c.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/14.mp3",
     "title" : "14",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_4738d6fdfa100a781a1bf383269337c6.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/15.mp3",
     "title" : "15",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_e8993d32e3c8eba7e5d19702504d580c.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/16.mp3",
     "title" : "16",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_f9edb09acadf1e268b47be1909f0c969.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/17.mp3",
     "title" : "17",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_0673a4c19b18d4a1ea28306c0ea58380.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/18.mp3",
     "title" : "18",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_b0215786406152852e59501a562b63e3.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_73795d755699bf19676cc821fe66b34b.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/3.mp3",
     "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_2ff2b663184cf48ccc31f7f65bdbb177.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/4.mp3",
     "title" : "4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_11c17ce40319d1afa7d1424342dc2898_1.mp3",
-    "title" : "5 (1)",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/5.mp3",
+    "title" : "5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_11c17ce40319d1afa7d1424342dc2898_2.mp3",
-    "title" : "5 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_52f7517d419740d1f1b2ef1e1fa11cb4.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/6.mp3",
     "title" : "6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_45ce640768b16d9bf4181d957cc4af31_1.mp3",
-    "title" : "7 (1)",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/7.mp3",
+    "title" : "7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_45ce640768b16d9bf4181d957cc4af31_2.mp3",
-    "title" : "7 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_06339bc0b532d52c8ac71c3d08efe686.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/8.mp3",
     "title" : "8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_f30a4d3e8f2072c92668a86fdd9b509c_ea1bc8771c9b1974ce0135203434d482.mp3",
+    "href" : "https://archive.org/download/hoang-le-nhat-thong-chi/9.mp3",
     "title" : "9",
     "children" : [ ]
   } ],

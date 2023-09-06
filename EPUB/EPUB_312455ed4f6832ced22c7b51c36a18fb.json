@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-08",
-    "duration" : 7620,
+    "published" : "2023-09-06",
+    "duration" : 15240,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_312455ed4f6832ced22c7b51c36a18fb.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_312455ed4f6832ced22c7b51c36a18fb.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_312455ed4f6832ced22c7b51c36a18fb.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_312455ed4f6832ced22c7b51c36a18fb.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_312455ed4f6832ced22c7b51c36a18fb_fe5739bfcea89bb21445af4517428766.mp3",
+    "href" : "https://archive.org/download/1_20210117_20210117_0636/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3942,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_312455ed4f6832ced22c7b51c36a18fb_9eb1d261d1e78b28ba61965a4f0619e8.mp3",
+    "href" : "https://archive.org/download/1_20210117_20210117_0636/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3678,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_312455ed4f6832ced22c7b51c36a18fb_fe5739bfcea89bb21445af4517428766.mp3",
+    "href" : "https://archive.org/download/1_20210117_20210117_0636/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_312455ed4f6832ced22c7b51c36a18fb_9eb1d261d1e78b28ba61965a4f0619e8.mp3",
+    "href" : "https://archive.org/download/1_20210117_20210117_0636/2.mp3",
     "title" : "2",
     "children" : [ ]
   } ],

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-31",
+    "published" : "2023-09-06",
     "duration" : 25055,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,207 +26,99 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_4b6a3bd85482495ddc77ea7fbaea5b0c.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_4b6a3bd85482495ddc77ea7fbaea5b0c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_4b6a3bd85482495ddc77ea7fbaea5b0c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_4b6a3bd85482495ddc77ea7fbaea5b0c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_e7e87734129ed5f2b92e4946d6d790c2_1.mp3",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㄀ (1)",
+    "duration" : 2453,
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㄀",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_e7e87734129ed5f2b92e4946d6d790c2_2.mp3",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㄀ (2)",
+    "duration" : 6761,
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_1.mp3",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (1)",
+    "duration" : 3583,
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㈀㄀",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_2.mp3",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (2)",
+    "duration" : 3660,
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㌀㄀",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_3.mp3",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (3)",
+    "duration" : 2885,
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㐀㄀",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_4.mp3",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (4)",
+    "duration" : 2514,
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㔀㄀",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_1d71f2686e40d66db7d46b3e53d5a089_1.mp3",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㈀㄀ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_1d71f2686e40d66db7d46b3e53d5a089_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㈀㄀ (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_8bb32f9133df9c2fa38f1648831b37a4_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㌀㄀ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_8bb32f9133df9c2fa38f1648831b37a4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㌀㄀ (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_0770849a235fdb06cad32dc858ca3a11_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㐀㄀ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_0770849a235fdb06cad32dc858ca3a11_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㐀㄀ (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_cfe42598f8c8bfdac0f6cf1e2677d6fb_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㔀㄀ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_cfe42598f8c8bfdac0f6cf1e2677d6fb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㔀㄀ (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_68fe9102feab4881727ac4bad2669fad_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "72 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_68fe9102feab4881727ac4bad2669fad_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "72 (2)",
+    "duration" : 3199,
+    "title" : "72",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_e7e87734129ed5f2b92e4946d6d790c2_1.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㄀ (1)",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-1.mp3",
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㄀",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_e7e87734129ed5f2b92e4946d6d790c2_2.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㄀ (2)",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-2.mp3",
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_1.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (1)",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-3.mp3",
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㈀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_2.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (2)",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-4.mp3",
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㌀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_3.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (3)",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-5.mp3",
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㐀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_97db751da1ee5f5a68080289dec92f73_4.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀 (4)",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-6.mp3",
+    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㔀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_1d71f2686e40d66db7d46b3e53d5a089_1.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㈀㄀ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_1d71f2686e40d66db7d46b3e53d5a089_2.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㈀㄀ (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_8bb32f9133df9c2fa38f1648831b37a4_1.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㌀㄀ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_8bb32f9133df9c2fa38f1648831b37a4_2.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㌀㄀ (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_0770849a235fdb06cad32dc858ca3a11_1.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㐀㄀ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_0770849a235fdb06cad32dc858ca3a11_2.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㐀㄀ (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_cfe42598f8c8bfdac0f6cf1e2677d6fb_1.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㔀㄀ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_cfe42598f8c8bfdac0f6cf1e2677d6fb_2.mp3",
-    "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㔀㄀ (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_68fe9102feab4881727ac4bad2669fad_1.mp3",
-    "title" : "72 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4b6a3bd85482495ddc77ea7fbaea5b0c_68fe9102feab4881727ac4bad2669fad_2.mp3",
-    "title" : "72 (2)",
+    "href" : "https://archive.org/download/quy-coc-2/quy-coc-7.mp3",
+    "title" : "72",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

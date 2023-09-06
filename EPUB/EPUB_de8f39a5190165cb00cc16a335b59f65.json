@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
+    "published" : "2023-09-06",
     "duration" : 30534,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,615 +26,219 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_de8f39a5190165cb00cc16a335b59f65.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_de8f39a5190165cb00cc16a335b59f65.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_de8f39a5190165cb00cc16a335b59f65.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_de8f39a5190165cb00cc16a335b59f65.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6620eaed4a361d7d6fac2d340d11493a_1.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-01 (1)",
+    "duration" : 1782,
+    "title" : "di-tron-01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6620eaed4a361d7d6fac2d340d11493a_2.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-01 (2)",
+    "duration" : 1796,
+    "title" : "di-tron-02",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_99c6e83da82a655e1fe2f6daf6263ffe_1.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-02 (1)",
+    "duration" : 1783,
+    "title" : "di-tron-03",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_99c6e83da82a655e1fe2f6daf6263ffe_2.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-02 (2)",
+    "duration" : 1803,
+    "title" : "di-tron-04",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_99c6e83da82a655e1fe2f6daf6263ffe_3.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-02 (3)",
+    "duration" : 1807,
+    "title" : "di-tron-05",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_a4dd37ca6e3100721c4856eed3692cc0_1.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-03 (1)",
+    "duration" : 1801,
+    "title" : "di-tron-06",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_a4dd37ca6e3100721c4856eed3692cc0_2.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-03 (2)",
+    "duration" : 1803,
+    "title" : "di-tron-07",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_a4dd37ca6e3100721c4856eed3692cc0_3.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-03 (3)",
+    "duration" : 1798,
+    "title" : "di-tron-08",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6feb39531e53b1a5a14401479ea19952_1.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-04 (1)",
+    "duration" : 1792,
+    "title" : "di-tron-09",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6feb39531e53b1a5a14401479ea19952_2.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-04 (2)",
+    "duration" : 1776,
+    "title" : "di-tron-10",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6feb39531e53b1a5a14401479ea19952_3.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-04 (3)",
+    "duration" : 1796,
+    "title" : "di-tron-11",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_71c38cd4e25d0727d635a298bc04d3ec_1.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-05 (1)",
+    "duration" : 1800,
+    "title" : "di-tron-12",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_71c38cd4e25d0727d635a298bc04d3ec_2.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-05 (2)",
+    "duration" : 1802,
+    "title" : "di-tron-13",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_71c38cd4e25d0727d635a298bc04d3ec_3.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-05 (3)",
+    "duration" : 1801,
+    "title" : "di-tron-14",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_357a89fb0e0348e2ddc9383bde40109e_1.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-06 (1)",
+    "duration" : 1793,
+    "title" : "di-tron-15",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_357a89fb0e0348e2ddc9383bde40109e_2.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-06 (2)",
+    "duration" : 1797,
+    "title" : "di-tron-16",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_357a89fb0e0348e2ddc9383bde40109e_3.mp3",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-06 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_c43b78ade5eceed5f4fa04b419deb1aa_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-07 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_c43b78ade5eceed5f4fa04b419deb1aa_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-07 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_c43b78ade5eceed5f4fa04b419deb1aa_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-07 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_e3357d2add4a3a3e1e6b55e56cfe2881_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-08 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_e3357d2add4a3a3e1e6b55e56cfe2881_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-08 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_e3357d2add4a3a3e1e6b55e56cfe2881_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-08 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ba7f744f3d75fb0ac70d92b0a6b27160_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-09 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ba7f744f3d75fb0ac70d92b0a6b27160_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-09 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ba7f744f3d75fb0ac70d92b0a6b27160_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-09 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_5d6088fe39e767664b0d9b558e9a8d65_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-10 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_5d6088fe39e767664b0d9b558e9a8d65_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-10 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_5d6088fe39e767664b0d9b558e9a8d65_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-10 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_49428b2beb1817b66d4f9284159d0d58_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-11 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_49428b2beb1817b66d4f9284159d0d58_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-11 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_49428b2beb1817b66d4f9284159d0d58_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-11 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_45f79472294c58e37f90b50d75e79a24_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-12 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_45f79472294c58e37f90b50d75e79a24_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-12 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_45f79472294c58e37f90b50d75e79a24_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-12 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_131738a5731859ab67b240776a98c6a7_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-13 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_131738a5731859ab67b240776a98c6a7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-13 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_131738a5731859ab67b240776a98c6a7_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-13 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_2297a244c8f6308ee8aaed0d6f8cdca2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-14 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_2297a244c8f6308ee8aaed0d6f8cdca2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-14 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_2297a244c8f6308ee8aaed0d6f8cdca2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-14 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_f38cf919bf688c8b2d369f998c3008f2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-15 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_f38cf919bf688c8b2d369f998c3008f2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-15 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_f38cf919bf688c8b2d369f998c3008f2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-15 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_13b6626766277898486910f085c06c03_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-16 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_13b6626766277898486910f085c06c03_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-16 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_13b6626766277898486910f085c06c03_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-16 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ef9cb30b7d5dc86bf7b7e35c81388009_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-17 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ef9cb30b7d5dc86bf7b7e35c81388009_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-17 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ef9cb30b7d5dc86bf7b7e35c81388009_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "di-tron-17 (3)",
+    "duration" : 1804,
+    "title" : "di-tron-17",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6620eaed4a361d7d6fac2d340d11493a_1.mp3",
-    "title" : "di-tron-01 (1)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-01.mp3",
+    "title" : "di-tron-01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6620eaed4a361d7d6fac2d340d11493a_2.mp3",
-    "title" : "di-tron-01 (2)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-02.mp3",
+    "title" : "di-tron-02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_99c6e83da82a655e1fe2f6daf6263ffe_1.mp3",
-    "title" : "di-tron-02 (1)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-03.mp3",
+    "title" : "di-tron-03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_99c6e83da82a655e1fe2f6daf6263ffe_2.mp3",
-    "title" : "di-tron-02 (2)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-04.mp3",
+    "title" : "di-tron-04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_99c6e83da82a655e1fe2f6daf6263ffe_3.mp3",
-    "title" : "di-tron-02 (3)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-05.mp3",
+    "title" : "di-tron-05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_a4dd37ca6e3100721c4856eed3692cc0_1.mp3",
-    "title" : "di-tron-03 (1)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-06.mp3",
+    "title" : "di-tron-06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_a4dd37ca6e3100721c4856eed3692cc0_2.mp3",
-    "title" : "di-tron-03 (2)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-07.mp3",
+    "title" : "di-tron-07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_a4dd37ca6e3100721c4856eed3692cc0_3.mp3",
-    "title" : "di-tron-03 (3)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-08.mp3",
+    "title" : "di-tron-08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6feb39531e53b1a5a14401479ea19952_1.mp3",
-    "title" : "di-tron-04 (1)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-09.mp3",
+    "title" : "di-tron-09",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6feb39531e53b1a5a14401479ea19952_2.mp3",
-    "title" : "di-tron-04 (2)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-10.mp3",
+    "title" : "di-tron-10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_6feb39531e53b1a5a14401479ea19952_3.mp3",
-    "title" : "di-tron-04 (3)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-11.mp3",
+    "title" : "di-tron-11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_71c38cd4e25d0727d635a298bc04d3ec_1.mp3",
-    "title" : "di-tron-05 (1)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-12.mp3",
+    "title" : "di-tron-12",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_71c38cd4e25d0727d635a298bc04d3ec_2.mp3",
-    "title" : "di-tron-05 (2)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-13.mp3",
+    "title" : "di-tron-13",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_71c38cd4e25d0727d635a298bc04d3ec_3.mp3",
-    "title" : "di-tron-05 (3)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-14.mp3",
+    "title" : "di-tron-14",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_357a89fb0e0348e2ddc9383bde40109e_1.mp3",
-    "title" : "di-tron-06 (1)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-15.mp3",
+    "title" : "di-tron-15",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_357a89fb0e0348e2ddc9383bde40109e_2.mp3",
-    "title" : "di-tron-06 (2)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-16.mp3",
+    "title" : "di-tron-16",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_357a89fb0e0348e2ddc9383bde40109e_3.mp3",
-    "title" : "di-tron-06 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_c43b78ade5eceed5f4fa04b419deb1aa_1.mp3",
-    "title" : "di-tron-07 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_c43b78ade5eceed5f4fa04b419deb1aa_2.mp3",
-    "title" : "di-tron-07 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_c43b78ade5eceed5f4fa04b419deb1aa_3.mp3",
-    "title" : "di-tron-07 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_e3357d2add4a3a3e1e6b55e56cfe2881_1.mp3",
-    "title" : "di-tron-08 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_e3357d2add4a3a3e1e6b55e56cfe2881_2.mp3",
-    "title" : "di-tron-08 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_e3357d2add4a3a3e1e6b55e56cfe2881_3.mp3",
-    "title" : "di-tron-08 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ba7f744f3d75fb0ac70d92b0a6b27160_1.mp3",
-    "title" : "di-tron-09 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ba7f744f3d75fb0ac70d92b0a6b27160_2.mp3",
-    "title" : "di-tron-09 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ba7f744f3d75fb0ac70d92b0a6b27160_3.mp3",
-    "title" : "di-tron-09 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_5d6088fe39e767664b0d9b558e9a8d65_1.mp3",
-    "title" : "di-tron-10 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_5d6088fe39e767664b0d9b558e9a8d65_2.mp3",
-    "title" : "di-tron-10 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_5d6088fe39e767664b0d9b558e9a8d65_3.mp3",
-    "title" : "di-tron-10 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_49428b2beb1817b66d4f9284159d0d58_1.mp3",
-    "title" : "di-tron-11 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_49428b2beb1817b66d4f9284159d0d58_2.mp3",
-    "title" : "di-tron-11 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_49428b2beb1817b66d4f9284159d0d58_3.mp3",
-    "title" : "di-tron-11 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_45f79472294c58e37f90b50d75e79a24_1.mp3",
-    "title" : "di-tron-12 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_45f79472294c58e37f90b50d75e79a24_2.mp3",
-    "title" : "di-tron-12 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_45f79472294c58e37f90b50d75e79a24_3.mp3",
-    "title" : "di-tron-12 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_131738a5731859ab67b240776a98c6a7_1.mp3",
-    "title" : "di-tron-13 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_131738a5731859ab67b240776a98c6a7_2.mp3",
-    "title" : "di-tron-13 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_131738a5731859ab67b240776a98c6a7_3.mp3",
-    "title" : "di-tron-13 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_2297a244c8f6308ee8aaed0d6f8cdca2_1.mp3",
-    "title" : "di-tron-14 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_2297a244c8f6308ee8aaed0d6f8cdca2_2.mp3",
-    "title" : "di-tron-14 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_2297a244c8f6308ee8aaed0d6f8cdca2_3.mp3",
-    "title" : "di-tron-14 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_f38cf919bf688c8b2d369f998c3008f2_1.mp3",
-    "title" : "di-tron-15 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_f38cf919bf688c8b2d369f998c3008f2_2.mp3",
-    "title" : "di-tron-15 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_f38cf919bf688c8b2d369f998c3008f2_3.mp3",
-    "title" : "di-tron-15 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_13b6626766277898486910f085c06c03_1.mp3",
-    "title" : "di-tron-16 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_13b6626766277898486910f085c06c03_2.mp3",
-    "title" : "di-tron-16 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_13b6626766277898486910f085c06c03_3.mp3",
-    "title" : "di-tron-16 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ef9cb30b7d5dc86bf7b7e35c81388009_1.mp3",
-    "title" : "di-tron-17 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ef9cb30b7d5dc86bf7b7e35c81388009_2.mp3",
-    "title" : "di-tron-17 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_de8f39a5190165cb00cc16a335b59f65_ef9cb30b7d5dc86bf7b7e35c81388009_3.mp3",
-    "title" : "di-tron-17 (3)",
+    "href" : "https://archive.org/download/di-tron-05/di-tron-17.mp3",
+    "title" : "di-tron-17",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

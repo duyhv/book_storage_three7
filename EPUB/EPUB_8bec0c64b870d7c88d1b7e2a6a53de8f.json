@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
+    "published" : "2023-09-06",
     "duration" : 13193,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,111 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_8bec0c64b870d7c88d1b7e2a6a53de8f.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_8bec0c64b870d7c88d1b7e2a6a53de8f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_8bec0c64b870d7c88d1b7e2a6a53de8f.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_8bec0c64b870d7c88d1b7e2a6a53de8f.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_e293c8daa6215b558e8050f23331bc2c_1.mp3",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-1 (1)",
+    "duration" : 3600,
+    "title" : "thoi-quen-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_e293c8daa6215b558e8050f23331bc2c_2.mp3",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-1 (2)",
+    "duration" : 3600,
+    "title" : "thoi-quen-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_ebe895f01303691aab06096e1096073a_1.mp3",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-2 (1)",
+    "duration" : 3600,
+    "title" : "thoi-quen-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_ebe895f01303691aab06096e1096073a_2.mp3",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_20115adadec5d2c8b17ce9df6de07340_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_20115adadec5d2c8b17ce9df6de07340_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_6692eed153e9444c8520cb746c13b261_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_6692eed153e9444c8520cb746c13b261_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thoi-quen-4 (2)",
+    "duration" : 2393,
+    "title" : "thoi-quen-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_e293c8daa6215b558e8050f23331bc2c_1.mp3",
-    "title" : "thoi-quen-1 (1)",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-1.mp3",
+    "title" : "thoi-quen-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_e293c8daa6215b558e8050f23331bc2c_2.mp3",
-    "title" : "thoi-quen-1 (2)",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-2.mp3",
+    "title" : "thoi-quen-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_ebe895f01303691aab06096e1096073a_1.mp3",
-    "title" : "thoi-quen-2 (1)",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-3.mp3",
+    "title" : "thoi-quen-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_ebe895f01303691aab06096e1096073a_2.mp3",
-    "title" : "thoi-quen-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_20115adadec5d2c8b17ce9df6de07340_1.mp3",
-    "title" : "thoi-quen-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_20115adadec5d2c8b17ce9df6de07340_2.mp3",
-    "title" : "thoi-quen-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_6692eed153e9444c8520cb746c13b261_1.mp3",
-    "title" : "thoi-quen-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_8bec0c64b870d7c88d1b7e2a6a53de8f_6692eed153e9444c8520cb746c13b261_2.mp3",
-    "title" : "thoi-quen-4 (2)",
+    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-4.mp3",
+    "title" : "thoi-quen-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

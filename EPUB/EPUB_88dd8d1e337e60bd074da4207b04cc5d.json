@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
+    "published" : "2023-09-06",
     "duration" : 27763,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,159 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_88dd8d1e337e60bd074da4207b04cc5d.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_88dd8d1e337e60bd074da4207b04cc5d.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_88dd8d1e337e60bd074da4207b04cc5d.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_88dd8d1e337e60bd074da4207b04cc5d.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_342ae9d15c2537e4dcd85d959d7840f3_1.mp3",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-1 (1)",
+    "duration" : 7200,
+    "title" : "hoa-hong-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_342ae9d15c2537e4dcd85d959d7840f3_2.mp3",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-1 (2)",
+    "duration" : 7200,
+    "title" : "hoa-hong-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_1.mp3",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-2 (1)",
+    "duration" : 7200,
+    "title" : "hoa-hong-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_2.mp3",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_bc5c76f8228add5e84c054a51c247596_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_bc5c76f8228add5e84c054a51c247596_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-4 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hoa-hong-4 (4)",
+    "duration" : 6163,
+    "title" : "hoa-hong-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_342ae9d15c2537e4dcd85d959d7840f3_1.mp3",
-    "title" : "hoa-hong-1 (1)",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-1.mp3",
+    "title" : "hoa-hong-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_342ae9d15c2537e4dcd85d959d7840f3_2.mp3",
-    "title" : "hoa-hong-1 (2)",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-2.mp3",
+    "title" : "hoa-hong-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_1.mp3",
-    "title" : "hoa-hong-2 (1)",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-3.mp3",
+    "title" : "hoa-hong-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_2.mp3",
-    "title" : "hoa-hong-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_3.mp3",
-    "title" : "hoa-hong-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_9c7aefeeb628d20c7578bbb9f1c1aa4b_4.mp3",
-    "title" : "hoa-hong-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_bc5c76f8228add5e84c054a51c247596_1.mp3",
-    "title" : "hoa-hong-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_bc5c76f8228add5e84c054a51c247596_2.mp3",
-    "title" : "hoa-hong-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_1.mp3",
-    "title" : "hoa-hong-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_2.mp3",
-    "title" : "hoa-hong-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_3.mp3",
-    "title" : "hoa-hong-4 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_88dd8d1e337e60bd074da4207b04cc5d_8eb92976fd122bf379061d27b916eb30_4.mp3",
-    "title" : "hoa-hong-4 (4)",
+    "href" : "https://archive.org/download/hoa-hong-1_202112/hoa-hong-4.mp3",
+    "title" : "hoa-hong-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

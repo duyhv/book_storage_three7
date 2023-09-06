@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 8350,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_3fee2b7081749bca5acfc8e80e9bbccb.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_3fee2b7081749bca5acfc8e80e9bbccb.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_3fee2b7081749bca5acfc8e80e9bbccb.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_3fee2b7081749bca5acfc8e80e9bbccb.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_1.mp3",
+    "href" : "https://archive.org/download/uyen-uong/uyen-uong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "uyen-uong (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "uyen-uong (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "uyen-uong (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "uyen-uong (4)",
+    "duration" : 8350,
+    "title" : "uyen-uong",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_1.mp3",
-    "title" : "uyen-uong (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_2.mp3",
-    "title" : "uyen-uong (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_3.mp3",
-    "title" : "uyen-uong (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_3fee2b7081749bca5acfc8e80e9bbccb_d727c4a2191d09336bfb9dc4e915c149_4.mp3",
-    "title" : "uyen-uong (4)",
+    "href" : "https://archive.org/download/uyen-uong/uyen-uong.mp3",
+    "title" : "uyen-uong",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
+    "published" : "2023-09-06",
     "duration" : 59174,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,423 +26,111 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_592e25784e427a40c2ce965411ac3a56.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_592e25784e427a40c2ce965411ac3a56.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_592e25784e427a40c2ce965411ac3a56.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_592e25784e427a40c2ce965411ac3a56.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_1.mp3",
+    "href" : "https://archive.org/download/baqhd/01.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2001%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (1)",
+    "duration" : 8285,
+    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_2.mp3",
+    "href" : "https://archive.org/download/baqhd/02.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2002%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (2)",
+    "duration" : 8356,
+    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_3.mp3",
+    "href" : "https://archive.org/download/baqhd/03.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2003%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (3)",
+    "duration" : 8281,
+    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_4.mp3",
+    "href" : "https://archive.org/download/baqhd/04.BiAnQuanHauDen-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (4)",
+    "duration" : 8172,
+    "title" : "04.BiAnQuanHauDen-04",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_1.mp3",
+    "href" : "https://archive.org/download/baqhd/05.BiAnQuanHauDen-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (1)",
+    "duration" : 6554,
+    "title" : "05.BiAnQuanHauDen-05",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_2.mp3",
+    "href" : "https://archive.org/download/baqhd/06.BiAnQuanHauDen-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (2)",
+    "duration" : 6642,
+    "title" : "06.BiAnQuanHauDen-06",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_3.mp3",
+    "href" : "https://archive.org/download/baqhd/07.BiAnQuanHauDen-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (3)",
+    "duration" : 6446,
+    "title" : "07.BiAnQuanHauDen-07",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_4.mp3",
+    "href" : "https://archive.org/download/baqhd/08.BiAnQuanHauDen-08end.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "04.BiAnQuanHauDen-04 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "04.BiAnQuanHauDen-04 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "04.BiAnQuanHauDen-04 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "04.BiAnQuanHauDen-04 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "04.BiAnQuanHauDen-04 (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.BiAnQuanHauDen-05 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.BiAnQuanHauDen-05 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.BiAnQuanHauDen-05 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.BiAnQuanHauDen-05 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06.BiAnQuanHauDen-06 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06.BiAnQuanHauDen-06 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06.BiAnQuanHauDen-06 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06.BiAnQuanHauDen-06 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_d75839e3779f15891dfaf550a1993e17_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "07.BiAnQuanHauDen-07 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_d75839e3779f15891dfaf550a1993e17_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "07.BiAnQuanHauDen-07 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_d75839e3779f15891dfaf550a1993e17_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "07.BiAnQuanHauDen-07 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "08.BiAnQuanHauDen-08end (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "08.BiAnQuanHauDen-08end (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "08.BiAnQuanHauDen-08end (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "08.BiAnQuanHauDen-08end (4)",
+    "duration" : 6438,
+    "title" : "08.BiAnQuanHauDen-08end",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_1.mp3",
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (1)",
+    "href" : "https://archive.org/download/baqhd/01.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2001%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_2.mp3",
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (2)",
+    "href" : "https://archive.org/download/baqhd/02.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2002%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_3.mp3",
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (3)",
+    "href" : "https://archive.org/download/baqhd/03.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2003%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a649f1dd754f8ff24f07786436b54da8_4.mp3",
-    "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV (4)",
+    "href" : "https://archive.org/download/baqhd/04.BiAnQuanHauDen-04.mp3",
+    "title" : "04.BiAnQuanHauDen-04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_1.mp3",
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (1)",
+    "href" : "https://archive.org/download/baqhd/05.BiAnQuanHauDen-05.mp3",
+    "title" : "05.BiAnQuanHauDen-05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_2.mp3",
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (2)",
+    "href" : "https://archive.org/download/baqhd/06.BiAnQuanHauDen-06.mp3",
+    "title" : "06.BiAnQuanHauDen-06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_3.mp3",
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (3)",
+    "href" : "https://archive.org/download/baqhd/07.BiAnQuanHauDen-07.mp3",
+    "title" : "07.BiAnQuanHauDen-07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_4.mp3",
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_92653b82b714ee3d95625f2a72fd0fa9_5.mp3",
-    "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_1.mp3",
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_2.mp3",
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_3.mp3",
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_4.mp3",
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_dd41c37282211a08f0e742493ab817f7_5.mp3",
-    "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_1.mp3",
-    "title" : "04.BiAnQuanHauDen-04 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_2.mp3",
-    "title" : "04.BiAnQuanHauDen-04 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_3.mp3",
-    "title" : "04.BiAnQuanHauDen-04 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_4.mp3",
-    "title" : "04.BiAnQuanHauDen-04 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_ddcd856f0cbe661b24f165f69d1c0c18_5.mp3",
-    "title" : "04.BiAnQuanHauDen-04 (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_1.mp3",
-    "title" : "05.BiAnQuanHauDen-05 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_2.mp3",
-    "title" : "05.BiAnQuanHauDen-05 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_3.mp3",
-    "title" : "05.BiAnQuanHauDen-05 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_cccca2f9540761162fdd49878e424871_4.mp3",
-    "title" : "05.BiAnQuanHauDen-05 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_1.mp3",
-    "title" : "06.BiAnQuanHauDen-06 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_2.mp3",
-    "title" : "06.BiAnQuanHauDen-06 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_3.mp3",
-    "title" : "06.BiAnQuanHauDen-06 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_a079d1e8cf5c0a28888de037a06333e6_4.mp3",
-    "title" : "06.BiAnQuanHauDen-06 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_d75839e3779f15891dfaf550a1993e17_1.mp3",
-    "title" : "07.BiAnQuanHauDen-07 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_d75839e3779f15891dfaf550a1993e17_2.mp3",
-    "title" : "07.BiAnQuanHauDen-07 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_d75839e3779f15891dfaf550a1993e17_3.mp3",
-    "title" : "07.BiAnQuanHauDen-07 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_1.mp3",
-    "title" : "08.BiAnQuanHauDen-08end (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_2.mp3",
-    "title" : "08.BiAnQuanHauDen-08end (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_3.mp3",
-    "title" : "08.BiAnQuanHauDen-08end (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_592e25784e427a40c2ce965411ac3a56_005114b4018c317f891995b266ff0b4e_4.mp3",
-    "title" : "08.BiAnQuanHauDen-08end (4)",
+    "href" : "https://archive.org/download/baqhd/08.BiAnQuanHauDen-08end.mp3",
+    "title" : "08.BiAnQuanHauDen-08end",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

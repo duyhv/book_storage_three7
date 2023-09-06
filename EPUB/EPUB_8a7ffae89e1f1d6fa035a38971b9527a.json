@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 43038,
+    "published" : "2023-09-06",
+    "duration" : 86076,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_8a7ffae89e1f1d6fa035a38971b9527a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_8a7ffae89e1f1d6fa035a38971b9527a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_8a7ffae89e1f1d6fa035a38971b9527a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_8a7ffae89e1f1d6fa035a38971b9527a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_3e20f54781e81d18132a5df4343d6610.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3539,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_7173022bd96f0218797d7e5221844e66.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3584,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_3c364f6a312f9a365d447cabc6e0b6da.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3562,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_4de6d78a52dceae5a2df87baf4abae4c.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3593,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_634315a17318f8efe913602a0f560159.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3592,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_6b457877427b6ad8db7bcd6e42089909.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3586,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_68633191363d8b81000aa5bce27a51a4.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3588,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_cac4b15cd6a9b02932b5023e4216f01f.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3589,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_1369f0bed91b25357949a4ecdd3477cc.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3581,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_0bd6ca500c210c298baeb4e03263ba5d.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3598,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_9e259e6a5b83c29af50d250fbe5ab588.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3631,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_e9a6331df33dc306f1be7a73bb736293.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3595,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_3e20f54781e81d18132a5df4343d6610.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/1.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 1 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_7173022bd96f0218797d7e5221844e66.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/10.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 10 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_3c364f6a312f9a365d447cabc6e0b6da.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/11.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 11 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_4de6d78a52dceae5a2df87baf4abae4c.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/12.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 12 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_634315a17318f8efe913602a0f560159.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/2.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 2 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_6b457877427b6ad8db7bcd6e42089909.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/3.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 3 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_68633191363d8b81000aa5bce27a51a4.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/4.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 4 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_cac4b15cd6a9b02932b5023e4216f01f.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/5.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 5 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_1369f0bed91b25357949a4ecdd3477cc.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/6.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 6 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_0bd6ca500c210c298baeb4e03263ba5d.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/7.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 7 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_9e259e6a5b83c29af50d250fbe5ab588.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/8.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 8 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/AUDIO/AUDIO_8a7ffae89e1f1d6fa035a38971b9527a_e9a6331df33dc306f1be7a73bb736293.mp3",
+    "href" : "https://archive.org/download/Ho_a_song_nhu_the/9.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 9 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   } ],

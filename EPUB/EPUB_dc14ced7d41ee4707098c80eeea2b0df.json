@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 7644,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_dc14ced7d41ee4707098c80eeea2b0df.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_dc14ced7d41ee4707098c80eeea2b0df.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_dc14ced7d41ee4707098c80eeea2b0df.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_dc14ced7d41ee4707098c80eeea2b0df.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_1.mp3",
+    "href" : "https://archive.org/download/tim-kiem/tim-kiem.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tim-kiem (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tim-kiem (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tim-kiem (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tim-kiem (4)",
+    "duration" : 7644,
+    "title" : "tim-kiem",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_1.mp3",
-    "title" : "tim-kiem (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_2.mp3",
-    "title" : "tim-kiem (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_3.mp3",
-    "title" : "tim-kiem (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_dc14ced7d41ee4707098c80eeea2b0df_923ca84bba63eed6e62538228d1fb43e_4.mp3",
-    "title" : "tim-kiem (4)",
+    "href" : "https://archive.org/download/tim-kiem/tim-kiem.mp3",
+    "title" : "tim-kiem",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
