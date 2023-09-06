@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 3405,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_24a1d160d13f8ab0b5b61ddefaed7675.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_24a1d160d13f8ab0b5b61ddefaed7675.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_24a1d160d13f8ab0b5b61ddefaed7675.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_24a1d160d13f8ab0b5b61ddefaed7675.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_24a1d160d13f8ab0b5b61ddefaed7675_a2d12e5689a1fcc1d5b748fdfe0cc439_1.mp3",
+    "href" : "https://archive.org/download/u-minh/u-minh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "u-minh (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_24a1d160d13f8ab0b5b61ddefaed7675_a2d12e5689a1fcc1d5b748fdfe0cc439_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "u-minh (2)",
+    "duration" : 3405,
+    "title" : "u-minh",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_24a1d160d13f8ab0b5b61ddefaed7675_a2d12e5689a1fcc1d5b748fdfe0cc439_1.mp3",
-    "title" : "u-minh (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_24a1d160d13f8ab0b5b61ddefaed7675_a2d12e5689a1fcc1d5b748fdfe0cc439_2.mp3",
-    "title" : "u-minh (2)",
+    "href" : "https://archive.org/download/u-minh/u-minh.mp3",
+    "title" : "u-minh",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

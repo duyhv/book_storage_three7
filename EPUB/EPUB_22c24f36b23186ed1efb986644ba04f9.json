@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
+    "published" : "2023-09-06",
     "duration" : 3658,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_22c24f36b23186ed1efb986644ba04f9.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_22c24f36b23186ed1efb986644ba04f9.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_22c24f36b23186ed1efb986644ba04f9.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_22c24f36b23186ed1efb986644ba04f9.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_1.mp3",
+    "href" : "https://archive.org/download/bach-tuong/bach-tuong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (2)",
+    "duration" : 3658,
+    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_1.mp3",
-    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_22c24f36b23186ed1efb986644ba04f9_2fdfb3cfe6e793d43e219365613b6efc_2.mp3",
-    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀 (2)",
+    "href" : "https://archive.org/download/bach-tuong/bach-tuong.mp3",
+    "title" : "﹂A#̓H TU.͏.̣͎G VA/＃ 一唀ᬃ̃ 吀唀ᬃ伀ᬃă一䜀 ⴀ 吀挀 最椀ꌞ 㨀 匀 嘀́渀 䌀挀",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 15422,
+    "published" : "2023-09-06",
+    "duration" : 26191,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/EPUB/EPUB_282def02a9ddabb72f79884b8a6ccba9.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_282def02a9ddabb72f79884b8a6ccba9.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three7/main/IMAGE/IMAGE_282def02a9ddabb72f79884b8a6ccba9.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_282def02a9ddabb72f79884b8a6ccba9.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_690ba6939ed3b2e11763f0db71d1deee.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/01.MucLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2093,
@@ -44,23 +44,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_83c85c88365f8359ce4d8f34463c28f1_1.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/02.Buoc1_HieuRoTaiSaoLaiLaBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan (1)",
+    "duration" : 2204,
+    "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_83c85c88365f8359ce4d8f34463c28f1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_f8da23009a0d0564b23e1eb52b73b256.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/03.Buoc2_MuaVaBanDungThoiDiemChuKyBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1971,
@@ -68,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_f13d7e5c8ce900d9c4ffe88b1d3e4be7.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/04.Buoc3_MuaDungLoaiBDSDungViTriVaXuHuong_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1023,
@@ -76,23 +68,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_ecf32fd6e6af85a02f4ec29d25358392_1.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/05.Buoc4_SuDungVoVaHuyDongVonMotCachThongMinh_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan (1)",
+    "duration" : 2449,
+    "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_ecf32fd6e6af85a02f4ec29d25358392_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_971cf195a7d481b102d83d953e355fa4.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/06.Buoc5_DamPhanHieuQuaDamPhanDeLaiNgayKhiMua_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1315,
@@ -100,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_aba0250289fa36d850dbbafa70e49763.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/07.Buoc6_GiauCoCungDongDoiVaTranhNhungSaiLamHaySongTrongCongSongBDS.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 949,
@@ -108,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_f556ac89af7a4cf8e0233c159bafaa3c.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/08.Buoc7_SoHuuBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1458,
@@ -116,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_8c3a035d767623c9aac554a988113854.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/09.Buoc8_GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 924,
@@ -124,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_8b749b9ccab6b62787beec92960cc6da.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/10.TongKet_PhuLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1036,
@@ -133,51 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_690ba6939ed3b2e11763f0db71d1deee.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/01.MucLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "title" : "01.MucLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_83c85c88365f8359ce4d8f34463c28f1_1.mp3",
-    "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan (1)",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/02.Buoc1_HieuRoTaiSaoLaiLaBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_83c85c88365f8359ce4d8f34463c28f1_2.mp3",
-    "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_f8da23009a0d0564b23e1eb52b73b256.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/03.Buoc2_MuaVaBanDungThoiDiemChuKyBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "title" : "03.Buoc2 MuaVaBanDungThoiDiemChuKyBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_f13d7e5c8ce900d9c4ffe88b1d3e4be7.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/04.Buoc3_MuaDungLoaiBDSDungViTriVaXuHuong_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "title" : "04.Buoc3 MuaDungLoaiBDSDungViTriVaXuHuong BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_ecf32fd6e6af85a02f4ec29d25358392_1.mp3",
-    "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan (1)",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/05.Buoc4_SuDungVoVaHuyDongVonMotCachThongMinh_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_ecf32fd6e6af85a02f4ec29d25358392_2.mp3",
-    "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_971cf195a7d481b102d83d953e355fa4.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/06.Buoc5_DamPhanHieuQuaDamPhanDeLaiNgayKhiMua_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "title" : "06.Buoc5 DamPhanHieuQuaDamPhanDeLaiNgayKhiMua BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_aba0250289fa36d850dbbafa70e49763.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/07.Buoc6_GiauCoCungDongDoiVaTranhNhungSaiLamHaySongTrongCongSongBDS.mp3",
     "title" : "07.Buoc6 GiauCoCungDongDoiVaTranhNhungSaiLamHaySongTrongCongSongBDS",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_f556ac89af7a4cf8e0233c159bafaa3c.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/08.Buoc7_SoHuuBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "title" : "08.Buoc7 SoHuuBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_8c3a035d767623c9aac554a988113854.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/09.Buoc8_GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang.mp3",
     "title" : "09.Buoc8 GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_282def02a9ddabb72f79884b8a6ccba9_8b749b9ccab6b62787beec92960cc6da.mp3",
+    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/10.TongKet_PhuLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
     "title" : "10.TongKet PhuLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   } ],
