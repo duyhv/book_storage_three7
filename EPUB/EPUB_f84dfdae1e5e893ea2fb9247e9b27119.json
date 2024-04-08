@@ -36,44 +36,28 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/f84dfdae1e5e893ea2fb9247e9b27119/p1.mp3",
+    "href" : "https://archive.org/download/2_20210117_20210117_0733/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4255,
     "title" : "p1",
     "properties" : null,
-    "alternate" : [ {
-      "href" : "https://archive.org/download/2_20210117_20210117_0733/1.mp3",
-      "type" : "audio/mpeg",
-      "bitrate" : 128,
-      "duration" : 4255,
-      "title" : "p1",
-      "properties" : null,
-      "alternate" : null
-    } ]
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/f84dfdae1e5e893ea2fb9247e9b27119/p2.mp3",
+    "href" : "https://archive.org/download/2_20210117_20210117_0733/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4641,
     "title" : "p2",
     "properties" : null,
-    "alternate" : [ {
-      "href" : "https://archive.org/download/2_20210117_20210117_0733/2.mp3",
-      "type" : "audio/mpeg",
-      "bitrate" : 128,
-      "duration" : 4641,
-      "title" : "p2",
-      "properties" : null,
-      "alternate" : null
-    } ]
+    "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/f84dfdae1e5e893ea2fb9247e9b27119/p1.mp3",
+    "href" : "https://archive.org/download/2_20210117_20210117_0733/1.mp3",
     "title" : "p1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/f84dfdae1e5e893ea2fb9247e9b27119/p2.mp3",
+    "href" : "https://archive.org/download/2_20210117_20210117_0733/2.mp3",
     "title" : "p2",
     "children" : [ ]
   } ],
