@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 54410,
+    "published" : "2024-04-28",
+    "duration" : 31816,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/CHINH%20PH%E1%BB%A4%20NG%C3%82M%20%20%C4%90%E1%BA%B7ng%20Tr%E1%BA%A7n%20C%C3%B4n%20%20%C4%90o%C3%A0n%20Th%E1%BB%8B%20%C4%90i%E1%BB%83m%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2068.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/chinh-phu-ngam-dang-tran-con-doan-thi-diem-ngoc-sen-voice-68.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1447,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/CH%E1%BA%BE%20LAN%20VI%C3%8AN%20%20TI%E1%BA%BENG%20H%C3%81T%20CON%20T%C3%80U%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20hay%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2074.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/che-lan-vien-tieng-hat-con-tau-va-cac-bai-tho-hay-tieu-bieu-ngoc-sen-voice-74.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1201,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/C%C3%92N%20DUY%C3%8AN%20H%E1%BA%BET%20DUY%C3%8AN%20v%C3%A0%20chuy%E1%BB%87n%20%E1%BB%9E%20V%E1%BA%ACY%20trong%20CA%20DAO%20VI%E1%BB%86T%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2089.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/con-duyen-het-duyen-va-chuyen-o-vay-trong-ca-dao-viet-ngoc-sen-voice-89.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 950,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/HUY%20C%E1%BA%ACN%20%20Tr%C3%A0ng%20Giang%20%20%C3%81o%20Tr%E1%BA%AFng%20%20%C4%90o%C3%A0n%20Thuy%E1%BB%81n%20%C4%90%C3%A1nh%20C%C3%A1%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%20104.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/huy-can-trang-giang-ao-trang-doan-thuyen-danh-ca-va-cac-bai-tho-tieu-bieu-ngoc-sen-voice-104.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 907,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/H%C3%80N%20M%E1%BA%B6C%20T%E1%BB%AC%20%20T%E1%BA%ADp%20th%C6%A1%20G%C3%81I%20QU%C3%8A%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20hay%20%20NSV76.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/han-mac-tu-tap-tho-gai-que-va-nhung-bai-tho-hay-nsv76.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1406,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/H%C3%80N%20M%E1%BA%B6C%20T%E1%BB%AC%20%20%C4%90AU%20TH%C6%AF%C6%A0NG%20%20%C4%90%C3%A2y%20Th%C3%B4n%20V%C4%A9%20D%E1%BA%A1%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20TH%C6%A0%20%C4%90I%C3%8AN%20hay%20nh%E1%BA%A5t%20%20NSV70.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/han-mac-tu-dau-thuong-day-thon-vi-da-va-nhung-bai-tho-dien-hay-nhat-nsv70.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2740,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/H%C3%A0%20N%E1%BB%99i%20-%20Ph%E1%BB%91%20%20Phan%20V%C5%A9%20%20Em%20%C6%A1i%20H%C3%A0%20N%E1%BB%99i%20ph%E1%BB%91%20%20Ph%C3%BA%20Quang%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2098.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/pho-phan-vu-em-oi-ha-noi-pho-phu-quang-ngoc-sen-voice-98.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1498,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20HO%C3%80NG%20C%E1%BA%A6M%20%20L%C3%A1%20Di%C3%AAu%20B%C3%B4ng_B%C3%AAn%20Kia%20S%C3%B4ng%20%C4%90u%E1%BB%91ng_H%E1%BA%ADn%20Nam%20Quan%20v%C3%A0%20c%C3%A1c%20t%C3%A1c%20ph%E1%BA%A9m%20ti%C3%AAu%20bi%E1%BB%83u%20%20114.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-hoang-cam-la-dieu-bong-ben-kia-song-duong-han-nam-quan-va-cac-tac-pham-tieu-bieu-114.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1616,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20L%C6%AFU%20QUANG%20V%C5%A8%20%20T%C3%A1c%20gi%E1%BA%A3%20C%C3%A2y%20t%C3%A1o%20n%E1%BB%9F%20hoa%20Ph%E1%BB%91%20Ta%20%20%C3%81o%20C%C5%A9%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20NSV%20108.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-luu-quang-vu-tac-gia-cay-tao-no-hoa-pho-ta-ao-cu-va-cac-bai-tho-tieu-bieu-nsv-108.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 952,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20L%C6%AFU%20TR%E1%BB%8CNG%20L%C6%AF%20%20Ti%E1%BA%BFng%20Thu%20%20N%E1%BA%AFng%20M%E1%BB%9Bi%20%20T%C3%ACnh%20%C4%90i%C3%AAn%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%20102.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-luu-trong-lu-tieng-thu-nang-moi-tinh-dien-va-cac-bai-tho-tieu-bieu-ngoc-sen-voice-102.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 951,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20NGUY%E1%BB%84N%20DUY%20%20Tre%20Vi%E1%BB%87t%20Nam_%C3%81nh%20Tr%C4%83ng_%C4%90%C3%B2%20L%C3%A8n_%C4%90%C3%A1nh%20Th%E1%BB%A9c%20Ti%E1%BB%81m%20L%E1%BB%B1c%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20Th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%2085.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-nguyen-duy-tre-viet-nam-anh-trang-do-len-danh-thuc-tiem-luc-va-nhung-bai-tho-tieu-bieu-85.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1656,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20TTKh%20%20Hai%20S%E1%BA%AFc%20Hoa%20Tig%C3%B4n%20v%C3%A0%203%20b%C3%A0i%20th%C6%A1%20t%C3%ACnh%20c%C3%B2n%20l%E1%BA%A1i%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2073.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-ttkh-hai-sac-hoa-tigon-va-3-bai-tho-tinh-con-lai-ngoc-sen-voice-73.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 668,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Truy%E1%BB%87n%20Th%C6%A1%20L%E1%BB%A4C%20V%C3%82N%20TI%C3%8AN%20%20NGUY%E1%BB%84N%20%C4%90%C3%8CNH%20CHI%E1%BB%82U%20%20Tr%E1%BB%8Dn%20b%E1%BB%99%202082%20c%C3%A2u%20th%C6%A1%20l%E1%BB%A5c%20b%C3%A1t%20%20Ph%E1%BA%A7n%20III%20H%E1%BB%93i%2001-10%2075.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/truyen-tho-luc-van-tien-nguyen-dinh-chieu-tron-bo-2082-cau-tho-luc-bat-phan-i-ii-hoi-01-10-75.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3203,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Truy%E1%BB%87n%20Th%C6%A1%20L%E1%BB%A5c%20V%C3%A2n%20Ti%C3%AAn%20%20NGUY%E1%BB%84N%20%C4%90%C3%8CNH%20CHI%E1%BB%82U%20%20Tr%E1%BB%8Dn%20b%E1%BB%99%202082%20c%C3%A2u%20th%C6%A1%20l%E1%BB%A5c%20b%C3%A1t%20%20Ph%E1%BA%A7n%20cu%E1%BB%91i.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/truyen-tho-luc-van-tien-nguyen-dinh-chieu-tron-bo-2082-cau-tho-luc-bat-phan-cuoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3538,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Tr%E1%BA%A7n%20%C4%90%C4%83ng%20Khoa%20%20H%E1%BA%A1t%20G%E1%BA%A1o%20L%C3%A0ng%20Ta%20%20G%C3%B3c%20S%C3%A2n%20V%C3%A0%20Kho%E1%BA%A3ng%20Tr%E1%BB%9Di%20c%C3%B9ng%20nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20hay%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2046.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tran-dang-khoa-hat-gao-lang-ta-goc-san-va-khoang-troi-cung-nhung-bai-tho-hay-ngoc-sen-voice-46.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1078,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/T%E1%BB%90%20H%E1%BB%AEU%20%20Vi%E1%BB%87t%20B%E1%BA%AFc%20%20L%C6%B0%E1%BB%A3m%20%20B%E1%BA%A7m%20%C6%A0i%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%20103.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/to-huu-viet-bac-luom-bam-oi-va-nhung-bai-tho-tieu-bieu-ngoc-sen-voice-103.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2481,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/XU%C3%82N%20DI%E1%BB%86U%20%20TH%C6%A0%20TH%C6%A0%20%20V%E1%BB%99i%20V%C3%A0ng%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20hay%20%28Ph%E1%BA%A7n%20II%29%20%20%C3%94ng%20Ho%C3%A0ng%20Th%C6%A1%20T%C3%ACnh%20%20NSV72.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-dieu-tho-tho-voi-vang-va-cac-bai-tho-hay-phan-ii-ong-hoang-tho-tinh-nsv72.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2113,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/XU%C3%82N%20DI%E1%BB%86U%20%20TH%C6%A0%20TH%C6%A0%20%20%C4%90%C3%A2y%20M%C3%B9a%20Thu%20T%E1%BB%9Bi%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20hay%20%28Ph%E1%BA%A7n%20I%29%20%20%C3%94ng%20Ho%C3%A0ng%20Th%C6%A1%20T%C3%ACnh%20%20NSV71.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-dieu-tho-tho-day-mua-thu-toi-va-cac-bai-tho-hay-phan-i-ong-hoang-tho-tinh-nsv71.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1621,
@@ -180,7 +180,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/XU%C3%82N%20QU%E1%BB%B2NH%20%20Nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20ng%E1%BB%8Dt%20ng%C3%A0o%20nh%E1%BA%A5t%20%20S%C3%B3ng_Thuy%E1%BB%81n%20V%C3%A0%20Bi%E1%BB%83n_T%E1%BB%B1%20H%C3%A1t_M%E1%BA%B9%20C%E1%BB%A7a%20Anh_B%C3%A0n%20Tay%20Em%20%2084.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-quynh-nhung-bai-tho-ngot-ngao-nhat-song-thuyen-va-bien-tu-hat-me-cua-anh-ban-tay-em-84.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1790,
@@ -189,79 +189,79 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/CHINH%20PH%E1%BB%A4%20NG%C3%82M%20%20%C4%90%E1%BA%B7ng%20Tr%E1%BA%A7n%20C%C3%B4n%20%20%C4%90o%C3%A0n%20Th%E1%BB%8B%20%C4%90i%E1%BB%83m%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2068.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/chinh-phu-ngam-dang-tran-con-doan-thi-diem-ngoc-sen-voice-68.mp3",
     "title" : "CHINH PHỤ NGÂM | Đặng Trần Côn | Đoàn Thị Điểm | Ngọc Sen Voice 68",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/CH%E1%BA%BE%20LAN%20VI%C3%8AN%20%20TI%E1%BA%BENG%20H%C3%81T%20CON%20T%C3%80U%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20hay%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2074.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/che-lan-vien-tieng-hat-con-tau-va-cac-bai-tho-hay-tieu-bieu-ngoc-sen-voice-74.mp3",
     "title" : "CHẾ LAN VIÊN | TIẾNG HÁT CON TÀU và các bài thơ hay tiêu biểu | Ngọc Sen Voice 74",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/C%C3%92N%20DUY%C3%8AN%20H%E1%BA%BET%20DUY%C3%8AN%20v%C3%A0%20chuy%E1%BB%87n%20%E1%BB%9E%20V%E1%BA%ACY%20trong%20CA%20DAO%20VI%E1%BB%86T%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2089.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/con-duyen-het-duyen-va-chuyen-o-vay-trong-ca-dao-viet-ngoc-sen-voice-89.mp3",
     "title" : "CÒN DUYÊN HẾT DUYÊN và chuyện Ở VẬY trong CA DAO VIỆT | Ngọc Sen Voice 89",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/HUY%20C%E1%BA%ACN%20%20Tr%C3%A0ng%20Giang%20%20%C3%81o%20Tr%E1%BA%AFng%20%20%C4%90o%C3%A0n%20Thuy%E1%BB%81n%20%C4%90%C3%A1nh%20C%C3%A1%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%20104.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/huy-can-trang-giang-ao-trang-doan-thuyen-danh-ca-va-cac-bai-tho-tieu-bieu-ngoc-sen-voice-104.mp3",
     "title" : "HUY CẬN | Tràng Giang | Áo Trắng | Đoàn Thuyền Đánh Cá và các bài thơ tiêu biểu | Ngọc Sen Voice 104",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/H%C3%80N%20M%E1%BA%B6C%20T%E1%BB%AC%20%20T%E1%BA%ADp%20th%C6%A1%20G%C3%81I%20QU%C3%8A%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20hay%20%20NSV76.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/han-mac-tu-tap-tho-gai-que-va-nhung-bai-tho-hay-nsv76.mp3",
     "title" : "HÀN MẶC TỬ | Tập thơ GÁI QUÊ và những bài thơ hay | NSV76",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/H%C3%80N%20M%E1%BA%B6C%20T%E1%BB%AC%20%20%C4%90AU%20TH%C6%AF%C6%A0NG%20%20%C4%90%C3%A2y%20Th%C3%B4n%20V%C4%A9%20D%E1%BA%A1%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20TH%C6%A0%20%C4%90I%C3%8AN%20hay%20nh%E1%BA%A5t%20%20NSV70.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/han-mac-tu-dau-thuong-day-thon-vi-da-va-nhung-bai-tho-dien-hay-nhat-nsv70.mp3",
     "title" : "HÀN MẶC TỬ | ĐAU THƯƠNG | Đây Thôn Vĩ Dạ và những bài THƠ ĐIÊN hay nhất | NSV70",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/H%C3%A0%20N%E1%BB%99i%20-%20Ph%E1%BB%91%20%20Phan%20V%C5%A9%20%20Em%20%C6%A1i%20H%C3%A0%20N%E1%BB%99i%20ph%E1%BB%91%20%20Ph%C3%BA%20Quang%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2098.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/pho-phan-vu-em-oi-ha-noi-pho-phu-quang-ngoc-sen-voice-98.mp3",
     "title" : "Phố | Phan Vũ | Em ơi Hà Nội phố | Phú Quang | Ngọc Sen Voice 98",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20HO%C3%80NG%20C%E1%BA%A6M%20%20L%C3%A1%20Di%C3%AAu%20B%C3%B4ng_B%C3%AAn%20Kia%20S%C3%B4ng%20%C4%90u%E1%BB%91ng_H%E1%BA%ADn%20Nam%20Quan%20v%C3%A0%20c%C3%A1c%20t%C3%A1c%20ph%E1%BA%A9m%20ti%C3%AAu%20bi%E1%BB%83u%20%20114.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-hoang-cam-la-dieu-bong-ben-kia-song-duong-han-nam-quan-va-cac-tac-pham-tieu-bieu-114.mp3",
     "title" : "Thơ HOÀNG CẦM | Lá Diêu Bông_Bên Kia Sông Đuống_Hận Nam Quan và các tác phẩm tiêu biểu | 114",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20L%C6%AFU%20QUANG%20V%C5%A8%20%20T%C3%A1c%20gi%E1%BA%A3%20C%C3%A2y%20t%C3%A1o%20n%E1%BB%9F%20hoa%20Ph%E1%BB%91%20Ta%20%20%C3%81o%20C%C5%A9%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20NSV%20108.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-luu-quang-vu-tac-gia-cay-tao-no-hoa-pho-ta-ao-cu-va-cac-bai-tho-tieu-bieu-nsv-108.mp3",
     "title" : "Thơ LƯU QUANG VŨ | Tác giả Cây táo nở hoa Phố Ta | Áo Cũ và các bài thơ tiêu biểu | NSV 108",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20L%C6%AFU%20TR%E1%BB%8CNG%20L%C6%AF%20%20Ti%E1%BA%BFng%20Thu%20%20N%E1%BA%AFng%20M%E1%BB%9Bi%20%20T%C3%ACnh%20%C4%90i%C3%AAn%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%20102.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-luu-trong-lu-tieng-thu-nang-moi-tinh-dien-va-cac-bai-tho-tieu-bieu-ngoc-sen-voice-102.mp3",
     "title" : "Thơ LƯU TRỌNG LƯ | Tiếng Thu | Nắng Mới | Tình Điên và các bài thơ tiêu biểu | Ngọc Sen Voice 102",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20NGUY%E1%BB%84N%20DUY%20%20Tre%20Vi%E1%BB%87t%20Nam_%C3%81nh%20Tr%C4%83ng_%C4%90%C3%B2%20L%C3%A8n_%C4%90%C3%A1nh%20Th%E1%BB%A9c%20Ti%E1%BB%81m%20L%E1%BB%B1c%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20Th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%2085.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-nguyen-duy-tre-viet-nam-anh-trang-do-len-danh-thuc-tiem-luc-va-nhung-bai-tho-tieu-bieu-85.mp3",
     "title" : "Thơ NGUYỄN DUY | Tre Việt Nam_Ánh Trăng_Đò Lèn_Đánh Thức Tiềm Lực và những bài Thơ tiêu biểu | 85",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Th%C6%A1%20TTKh%20%20Hai%20S%E1%BA%AFc%20Hoa%20Tig%C3%B4n%20v%C3%A0%203%20b%C3%A0i%20th%C6%A1%20t%C3%ACnh%20c%C3%B2n%20l%E1%BA%A1i%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2073.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-ttkh-hai-sac-hoa-tigon-va-3-bai-tho-tinh-con-lai-ngoc-sen-voice-73.mp3",
     "title" : "Thơ TTKh | Hai Sắc Hoa Tigôn và 3 bài thơ tình còn lại | Ngọc Sen Voice 73",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Truy%E1%BB%87n%20Th%C6%A1%20L%E1%BB%A4C%20V%C3%82N%20TI%C3%8AN%20%20NGUY%E1%BB%84N%20%C4%90%C3%8CNH%20CHI%E1%BB%82U%20%20Tr%E1%BB%8Dn%20b%E1%BB%99%202082%20c%C3%A2u%20th%C6%A1%20l%E1%BB%A5c%20b%C3%A1t%20%20Ph%E1%BA%A7n%20III%20H%E1%BB%93i%2001-10%2075.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/truyen-tho-luc-van-tien-nguyen-dinh-chieu-tron-bo-2082-cau-tho-luc-bat-phan-i-ii-hoi-01-10-75.mp3",
     "title" : "Truyện Thơ LỤC VÂN TIÊN | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần I/II Hồi 01-10 |75",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Truy%E1%BB%87n%20Th%C6%A1%20L%E1%BB%A5c%20V%C3%A2n%20Ti%C3%AAn%20%20NGUY%E1%BB%84N%20%C4%90%C3%8CNH%20CHI%E1%BB%82U%20%20Tr%E1%BB%8Dn%20b%E1%BB%99%202082%20c%C3%A2u%20th%C6%A1%20l%E1%BB%A5c%20b%C3%A1t%20%20Ph%E1%BA%A7n%20cu%E1%BB%91i.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/truyen-tho-luc-van-tien-nguyen-dinh-chieu-tron-bo-2082-cau-tho-luc-bat-phan-cuoi.mp3",
     "title" : "Truyện Thơ Lục Vân Tiên | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần cuối",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/Tr%E1%BA%A7n%20%C4%90%C4%83ng%20Khoa%20%20H%E1%BA%A1t%20G%E1%BA%A1o%20L%C3%A0ng%20Ta%20%20G%C3%B3c%20S%C3%A2n%20V%C3%A0%20Kho%E1%BA%A3ng%20Tr%E1%BB%9Di%20c%C3%B9ng%20nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20hay%20%20Ng%E1%BB%8Dc%20Sen%20Voice%2046.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tran-dang-khoa-hat-gao-lang-ta-goc-san-va-khoang-troi-cung-nhung-bai-tho-hay-ngoc-sen-voice-46.mp3",
     "title" : "Trần Đăng Khoa | Hạt Gạo Làng Ta | Góc Sân Và Khoảng Trời cùng những bài thơ hay | Ngọc Sen Voice 46",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/T%E1%BB%90%20H%E1%BB%AEU%20%20Vi%E1%BB%87t%20B%E1%BA%AFc%20%20L%C6%B0%E1%BB%A3m%20%20B%E1%BA%A7m%20%C6%A0i%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20ti%C3%AAu%20bi%E1%BB%83u%20%20Ng%E1%BB%8Dc%20Sen%20Voice%20103.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/to-huu-viet-bac-luom-bam-oi-va-nhung-bai-tho-tieu-bieu-ngoc-sen-voice-103.mp3",
     "title" : "TỐ HỮU | Việt Bắc | Lượm | Bầm Ơi và những bài thơ tiêu biểu | Ngọc Sen Voice 103",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/XU%C3%82N%20DI%E1%BB%86U%20%20TH%C6%A0%20TH%C6%A0%20%20V%E1%BB%99i%20V%C3%A0ng%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20hay%20%28Ph%E1%BA%A7n%20II%29%20%20%C3%94ng%20Ho%C3%A0ng%20Th%C6%A1%20T%C3%ACnh%20%20NSV72.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-dieu-tho-tho-voi-vang-va-cac-bai-tho-hay-phan-ii-ong-hoang-tho-tinh-nsv72.mp3",
     "title" : "XUÂN DIỆU | THƠ THƠ | Vội Vàng và các bài thơ hay (Phần II) | Ông Hoàng Thơ Tình | NSV72",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/XU%C3%82N%20DI%E1%BB%86U%20%20TH%C6%A0%20TH%C6%A0%20%20%C4%90%C3%A2y%20M%C3%B9a%20Thu%20T%E1%BB%9Bi%20v%C3%A0%20c%C3%A1c%20b%C3%A0i%20th%C6%A1%20hay%20%28Ph%E1%BA%A7n%20I%29%20%20%C3%94ng%20Ho%C3%A0ng%20Th%C6%A1%20T%C3%ACnh%20%20NSV71.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-dieu-tho-tho-day-mua-thu-toi-va-cac-bai-tho-hay-phan-i-ong-hoang-tho-tinh-nsv71.mp3",
     "title" : "XUÂN DIỆU | THƠ THƠ | Đây Mùa Thu Tới và các bài thơ hay (Phần I) | Ông Hoàng Thơ Tình | NSV71",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-tho-luc-van-tien-nguye-n-di-nh-chie-u-tron-bo-2082-cau-tho-luc-bat-phan-cuoi/XU%C3%82N%20QU%E1%BB%B2NH%20%20Nh%E1%BB%AFng%20b%C3%A0i%20th%C6%A1%20ng%E1%BB%8Dt%20ng%C3%A0o%20nh%E1%BA%A5t%20%20S%C3%B3ng_Thuy%E1%BB%81n%20V%C3%A0%20Bi%E1%BB%83n_T%E1%BB%B1%20H%C3%A1t_M%E1%BA%B9%20C%E1%BB%A7a%20Anh_B%C3%A0n%20Tay%20Em%20%2084.mp3",
+    "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-quynh-nhung-bai-tho-ngot-ngao-nhat-song-thuyen-va-bien-tu-hat-me-cua-anh-ban-tay-em-84.mp3",
     "title" : "XUÂN QUỲNH | Những bài thơ ngọt ngào nhất | Sóng_Thuyền Và Biển_Tự Hát_Mẹ Của Anh_Bàn Tay Em | 84",
     "children" : [ ]
   } ],
