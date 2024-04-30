@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 27600,
+    "published" : "2024-04-30",
+    "duration" : 21871,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%201%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20C%C3%A1nh%20Di%E1%BB%81u%20Da%20Ng%C6%B0%E1%BB%9Di%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-1-mc-dinh-soan-l-canh-dieu-da-nguoi-l-truyen-ma-co-that-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1972,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%202%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20S%C3%B4ng%20Nu%C3%B4i%20X%C3%A1c%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-2-mc-dinh-soan-l-song-nuoi-xac-l-truyen-ma-co-that-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3541,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%203%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20Nh%E1%BB%99ng%20Ng%C6%B0%E1%BB%9Di%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-3-mc-dinh-soan-l-nhong-nguoi-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3894,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%204%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20C%E1%BB%95%20S%C3%B3i%20M%E1%BA%AFt%20%C4%90%E1%BB%8F%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-4-mc-dinh-soan-l-co-soi-mat-do-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1862,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%205%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20B%C3%ADch%20H%E1%BB%8Da%20Tuy%E1%BB%87t%20S%E1%BA%AFc%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-5-mc-dinh-soan-l-bich-hoa-tuyet-sac-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2469,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%206%5D%20l%20Th%E1%BA%A7n%20R%E1%BA%AFn%20Hai%20%C4%90%E1%BA%A7u%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-6-l-than-ran-hai-dau-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2253,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%207%5D%20l%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20R%E1%BB%ABng%20S%C3%A2u%20V%E1%BA%A1n%20%C4%90%E1%BB%99c%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-7-l-mc-dinh-soan-l-rung-sau-van-doc-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3985,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%208%5D%20l%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20Ma%20C%E1%BB%8F%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-8-l-mc-dinh-soan-l-ma-co-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1895,
@@ -101,35 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%201%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20C%C3%A1nh%20Di%E1%BB%81u%20Da%20Ng%C6%B0%E1%BB%9Di%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-1-mc-dinh-soan-l-canh-dieu-da-nguoi-l-truyen-ma-co-that-thai-lan.mp3",
     "title" : "[Tập 1] Mc Đình Soạn l Cánh Diều Da Người l Truyện ma có thật Thái Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%202%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20S%C3%B4ng%20Nu%C3%B4i%20X%C3%A1c%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-2-mc-dinh-soan-l-song-nuoi-xac-l-truyen-ma-co-that-thai-lan.mp3",
     "title" : "[Tập 2] Mc Đình Soạn l Sông Nuôi Xác l Truyện ma có thật Thái Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%203%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20Nh%E1%BB%99ng%20Ng%C6%B0%E1%BB%9Di%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-3-mc-dinh-soan-l-nhong-nguoi-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "title" : "[Tập 3] Mc Đình Soạn l Nhộng Người l Truyện ma có thật mới nhất Thái Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%204%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20C%E1%BB%95%20S%C3%B3i%20M%E1%BA%AFt%20%C4%90%E1%BB%8F%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-4-mc-dinh-soan-l-co-soi-mat-do-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "title" : "[Tập 4] Mc Đình Soạn l Cổ Sói Mắt Đỏ l Truyện ma có thật mới nhất Thái Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%205%5D%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20B%C3%ADch%20H%E1%BB%8Da%20Tuy%E1%BB%87t%20S%E1%BA%AFc%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-5-mc-dinh-soan-l-bich-hoa-tuyet-sac-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "title" : "[Tập 5] Mc Đình Soạn l Bích Họa Tuyệt Sắc l Truyện ma có thật mới nhất Thái Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%206%5D%20l%20Th%E1%BA%A7n%20R%E1%BA%AFn%20Hai%20%C4%90%E1%BA%A7u%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-6-l-than-ran-hai-dau-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "title" : "[Tập 6] l Thần Rắn Hai Đầu l Truyện ma có thật mới nhất Thái Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%207%5D%20l%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20R%E1%BB%ABng%20S%C3%A2u%20V%E1%BA%A1n%20%C4%90%E1%BB%99c%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-7-l-mc-dinh-soan-l-rung-sau-van-doc-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "title" : "[Tập 7] l Mc Đình Soạn l Rừng Sâu Vạn Độc l Truyện ma có thật mới nhất Thái Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/TruyenMaThaiLan/%5BT%E1%BA%ADp%208%5D%20l%20Mc%20%C4%90%C3%ACnh%20So%E1%BA%A1n%20l%20Ma%20C%E1%BB%8F%20l%20Truy%E1%BB%87n%20ma%20c%C3%B3%20th%E1%BA%ADt%20m%E1%BB%9Bi%20nh%E1%BA%A5t%20Th%C3%A1i%20Lan.mp3",
+    "href" : "https://archive.org/download/bf7918dc4225c2b26ef75102d1726ecb/-tap-8-l-mc-dinh-soan-l-ma-co-l-truyen-ma-co-that-moi-nhat-thai-lan.mp3",
     "title" : "[Tập 8] l Mc Đình Soạn l Ma Cỏ l Truyện ma có thật mới nhất Thái Lan",
     "children" : [ ]
   } ],

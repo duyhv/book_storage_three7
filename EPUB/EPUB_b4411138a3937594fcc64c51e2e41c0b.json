@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 13502,
+    "published" : "2024-04-29",
+    "duration" : 6751,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/song-an-4/song-an-1.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1976,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/song-an-4/song-an-2.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1888,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/song-an-4/song-an-3.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 899,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/song-an-4/song-an-4.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1988,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/song-an-4/song-an-1.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-1.mp3",
     "title" : "song-an-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/song-an-4/song-an-2.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-2.mp3",
     "title" : "song-an-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/song-an-4/song-an-3.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-3.mp3",
     "title" : "song-an-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/song-an-4/song-an-4.mp3",
+    "href" : "https://archive.org/download/b4411138a3937594fcc64c51e2e41c0b/song-an-4.mp3",
     "title" : "song-an-4",
     "children" : [ ]
   } ],

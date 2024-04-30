@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-30",
     "duration" : 19233,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-1.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-2.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-3.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-4.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-5.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3633,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-1.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-1.mp3",
     "title" : "dinh-duong-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-2.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-2.mp3",
     "title" : "dinh-duong-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-3.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-3.mp3",
     "title" : "dinh-duong-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-4.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-4.mp3",
     "title" : "dinh-duong-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dinh-duong-1/dinh-duong-5.mp3",
+    "href" : "https://archive.org/download/b000f99529cd76e13e0393bab7d891fa/dinh-duong-5.mp3",
     "title" : "dinh-duong-5",
     "children" : [ ]
   } ],

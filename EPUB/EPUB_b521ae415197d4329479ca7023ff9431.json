@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 35016,
+    "published" : "2024-04-30",
+    "duration" : 17508,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/muoi-05/muoi-001.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1766,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-002.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1771,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-003.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1742,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-004.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1742,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-05.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1792,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-06.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1746,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-07.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1665,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-08.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1780,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-09.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1739,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-10.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1765,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/muoi-05/muoi-001.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-01.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-002.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-02.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-003.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-03.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-004.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-04.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-05.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-05.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-06.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-06.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-07.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-08.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-08.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-09.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-09.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-10.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/muoi-05/muoi-10.mp3",
+    "href" : "https://archive.org/download/b521ae415197d4329479ca7023ff9431/muoi-dem-nga-ngoc-mai-thao-11.mp3",
     "title" : "Muoi Dem Nga Ngoc (Mai Thao) 11",
     "children" : [ ]
   } ],

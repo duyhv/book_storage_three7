@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 17516,
+    "published" : "2024-04-30",
+    "duration" : 15958,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-1.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-2.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-3.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-4.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-5.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1558,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-1.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-1.mp3",
     "title" : "vuon-cao-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-2.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-2.mp3",
     "title" : "vuon-cao-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-3.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-3.mp3",
     "title" : "vuon-cao-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-4.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-4.mp3",
     "title" : "vuon-cao-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vuon-cao-1/vuon-cao-5.mp3",
+    "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-5.mp3",
     "title" : "vuon-cao-5",
     "children" : [ ]
   } ],
