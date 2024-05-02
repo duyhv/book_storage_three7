@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 23864,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-1.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6000,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-2.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6000,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-3.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6000,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-4.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5864,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-1.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-1.mp3",
     "title" : "nguyen-tac-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-2.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-2.mp3",
     "title" : "nguyen-tac-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-3.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-3.mp3",
     "title" : "nguyen-tac-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguyen-tac-1_202112/nguyen-tac-4.mp3",
+    "href" : "https://archive.org/download/7d4c6f0498339d96b7a17aad9fb2c11a/nguyen-tac-4.mp3",
     "title" : "nguyen-tac-4",
     "children" : [ ]
   } ],
