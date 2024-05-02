@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 12584,
+    "published" : "2024-05-02",
+    "duration" : 9009,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-01-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-01-www-phatphapungdung-com.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2679,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-02-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-02-www-phatphapungdung-com.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2755,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-03-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-03-www-phatphapungdung-com.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1594,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-04-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-04-www-phatphapungdung-com.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1981,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-01-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-01-www-phatphapungdung-com.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-01-www.phatphapungdung.com",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-02-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-02-www-phatphapungdung-com.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-02-www.phatphapungdung.com",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-03-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-03-www-phatphapungdung-com.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-03-www.phatphapungdung.com",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/10-bai-hoc-tren-chiec-khan-an.sna/Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-04-www.phatphapungdung.com.mp3",
+    "href" : "https://archive.org/download/96b20014afd0a8c1c1257bd39e13bcc3/sach-noi-audio-book-10-bai-hoc-tu-chiec-khan-an-04-www-phatphapungdung-com.mp3",
     "title" : "Sach-Noi-Audio-Book-10-Bai-Hoc-Tu-Chiec-Khan-An-04-www.phatphapungdung.com",
     "children" : [ ]
   } ],
