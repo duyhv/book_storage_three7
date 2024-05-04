@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 20230,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-1.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/1-duc-phat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-2.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/2-duc-phat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-3.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/3-duc-phat-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-4.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/4-duc-phat-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-5.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/5-duc-phat-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-6.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/6-duc-phat-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2230,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-1.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/1-duc-phat-1.mp3",
     "title" : "duc-phat-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-2.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/2-duc-phat-2.mp3",
     "title" : "duc-phat-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-3.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/3-duc-phat-3.mp3",
     "title" : "duc-phat-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-4.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/4-duc-phat-4.mp3",
     "title" : "duc-phat-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-5.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/5-duc-phat-5.mp3",
     "title" : "duc-phat-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/duc-phat-1/duc-phat-6.mp3",
+    "href" : "https://archive.org/download/9f14914447ba223175f285b4a0277dbf/6-duc-phat-6.mp3",
     "title" : "duc-phat-6",
     "children" : [ ]
   } ],

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-04",
     "duration" : 13193,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-1.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/1-thoi-quen-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-2.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/2-thoi-quen-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-3.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/3-thoi-quen-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-4.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/4-thoi-quen-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2393,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-1.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/1-thoi-quen-1.mp3",
     "title" : "thoi-quen-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-2.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/2-thoi-quen-2.mp3",
     "title" : "thoi-quen-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-3.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/3-thoi-quen-3.mp3",
     "title" : "thoi-quen-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thoi-quen-1/thoi-quen-4.mp3",
+    "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/4-thoi-quen-4.mp3",
     "title" : "thoi-quen-4",
     "children" : [ ]
   } ],
