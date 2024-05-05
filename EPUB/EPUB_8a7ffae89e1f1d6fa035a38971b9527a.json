@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 86076,
+    "published" : "2024-05-05",
+    "duration" : 43038,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/1.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/1-ho-da-song-nhu-the-phan-1-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3539,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/10.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/2-ho-da-song-nhu-the-phan-10-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3584,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/11.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/3-ho-da-song-nhu-the-phan-11-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3562,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/12.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/4-ho-da-song-nhu-the-phan-12-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3593,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/2.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/5-ho-da-song-nhu-the-phan-2-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3592,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/3.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/6-ho-da-song-nhu-the-phan-3-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3586,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/4.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/7-ho-da-song-nhu-the-phan-4-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3588,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/5.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/8-ho-da-song-nhu-the-phan-5-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3589,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/6.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/9-ho-da-song-nhu-the-phan-6-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3581,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/7.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/10-ho-da-song-nhu-the-phan-7-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3598,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/8.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/11-ho-da-song-nhu-the-phan-8-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3631,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/9.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/12-ho-da-song-nhu-the-phan-9-doc-truyen-dem-khuya.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3595,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/1.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/1-ho-da-song-nhu-the-phan-1-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 1 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/10.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/2-ho-da-song-nhu-the-phan-10-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 10 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/11.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/3-ho-da-song-nhu-the-phan-11-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 11 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/12.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/4-ho-da-song-nhu-the-phan-12-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 12 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/2.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/5-ho-da-song-nhu-the-phan-2-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 2 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/3.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/6-ho-da-song-nhu-the-phan-3-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 3 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/4.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/7-ho-da-song-nhu-the-phan-4-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 4 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/5.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/8-ho-da-song-nhu-the-phan-5-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 5 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/6.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/9-ho-da-song-nhu-the-phan-6-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 6 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/7.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/10-ho-da-song-nhu-the-phan-7-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 7 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/8.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/11-ho-da-song-nhu-the-phan-8-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 8 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Ho_a_song_nhu_the/9.mp3",
+    "href" : "https://archive.org/download/8a7ffae89e1f1d6fa035a38971b9527a/12-ho-da-song-nhu-the-phan-9-doc-truyen-dem-khuya.mp3",
     "title" : "Họ Đã Sống Như Thế Phần 9 || Đọc Truyện Đêm Khuya",
     "children" : [ ]
   } ],
