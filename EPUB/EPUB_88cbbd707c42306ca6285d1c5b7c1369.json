@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-05",
     "duration" : 23127,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-1.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/1-su-that-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6000,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-2.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/2-su-that-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6000,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-3.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/3-su-that-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6000,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-4.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/4-su-that-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5127,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-1.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/1-su-that-1.mp3",
     "title" : "su-that-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-2.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/2-su-that-2.mp3",
     "title" : "su-that-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-3.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/3-su-that-3.mp3",
     "title" : "su-that-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-that-1_202201/su-that-4.mp3",
+    "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/4-su-that-4.mp3",
     "title" : "su-that-4",
     "children" : [ ]
   } ],
