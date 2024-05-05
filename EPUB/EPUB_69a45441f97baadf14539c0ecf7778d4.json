@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-05",
     "duration" : 9250,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/NgyXaCMtConBFullCamiloCruzSchNiHay/Ng%C3%A0y%20x%C6%B0a%20c%C3%B3%20m%E1%BB%99t%20con%20b%C3%B2%20%28Full%29%20-%20Camilo%20Cruz%20%20%20S%C3%A1ch%20n%C3%B3i%20hay.mp3",
+    "href" : "https://archive.org/download/69a45441f97baadf14539c0ecf7778d4/1-ngay-xua-co-mot-con-bo-full-camilo-cruz-sach-noi-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9250,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/NgyXaCMtConBFullCamiloCruzSchNiHay/Ng%C3%A0y%20x%C6%B0a%20c%C3%B3%20m%E1%BB%99t%20con%20b%C3%B2%20%28Full%29%20-%20Camilo%20Cruz%20%20%20S%C3%A1ch%20n%C3%B3i%20hay.mp3",
+    "href" : "https://archive.org/download/69a45441f97baadf14539c0ecf7778d4/1-ngay-xua-co-mot-con-bo-full-camilo-cruz-sach-noi-hay.mp3",
     "title" : "Ngày xưa có một con bò (Full) - Camilo Cruz Sách nói hay",
     "children" : [ ]
   } ],
