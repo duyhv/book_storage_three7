@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 18988,
+    "published" : "2024-05-06",
+    "duration" : 9494,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Th%C3%B4ng%20%C4%91i%E1%BB%87p%20c%E1%BB%A7a%20n%C6%B0%E1%BB%9Bc%201.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/1-thong-diep-cua-nuoc-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1864,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%202.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/2-thong-diep-cua-nuoc-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1720,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%203.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/3-thong-diep-cua-nuoc-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1201,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%204.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/4-thong-diep-cua-nuoc-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1266,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%205.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/5-thong-diep-cua-nuoc-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1420,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%206.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/6-thong-diep-cua-nuoc-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1589,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%207.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/7-thong-diep-cua-nuoc-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 434,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Th%C3%B4ng%20%C4%91i%E1%BB%87p%20c%E1%BB%A7a%20n%C6%B0%E1%BB%9Bc%201.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/1-thong-diep-cua-nuoc-1.mp3",
     "title" : "Thông điệp của nước 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%202.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/2-thong-diep-cua-nuoc-2.mp3",
     "title" : "Thông điệp của nước 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%203.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/3-thong-diep-cua-nuoc-3.mp3",
     "title" : "Thông điệp của nước 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%204.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/4-thong-diep-cua-nuoc-4.mp3",
     "title" : "Thông điệp của nước 4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%205.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/5-thong-diep-cua-nuoc-5.mp3",
     "title" : "Thông điệp của nước 5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%206.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/6-thong-diep-cua-nuoc-6.mp3",
     "title" : "Thông điệp của nước 6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ThongIepCuaNuoc11/Tho%CC%82ng%20%C4%91ie%CC%A3%CC%82p%20cu%CC%89a%20nu%CC%9Bo%CC%9B%CC%81c%207.mp3",
+    "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/7-thong-diep-cua-nuoc-7.mp3",
     "title" : "Thông điệp của nước 7",
     "children" : [ ]
   } ],
