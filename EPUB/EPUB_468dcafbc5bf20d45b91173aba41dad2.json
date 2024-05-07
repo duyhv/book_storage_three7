@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 5336,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/em-gai/em-gai.mp3",
+    "href" : "https://archive.org/download/468dcafbc5bf20d45b91173aba41dad2/1-em-gai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5336,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/em-gai/em-gai.mp3",
+    "href" : "https://archive.org/download/468dcafbc5bf20d45b91173aba41dad2/1-em-gai.mp3",
     "title" : "em-gai",
     "children" : [ ]
   } ],

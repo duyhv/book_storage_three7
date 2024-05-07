@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 8094,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tu-thu-lanh-dao-thuat-xu-the-hoa-nhan/T%E1%BB%A9%20Th%C6%B0%20L%C3%A3nh%20%C4%90%E1%BA%A1o%20-%20Thu%E1%BA%ADt%20X%E1%BB%AD%20Th%E1%BA%BF%20-%20H%C3%B2a%20Nh%C3%A2n.mp3",
+    "href" : "https://archive.org/download/47d9a3d654571b40f47038b213405efd/1-tu-thu-lanh-dao-thuat-xu-the-hoa-nhan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8094,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tu-thu-lanh-dao-thuat-xu-the-hoa-nhan/T%E1%BB%A9%20Th%C6%B0%20L%C3%A3nh%20%C4%90%E1%BA%A1o%20-%20Thu%E1%BA%ADt%20X%E1%BB%AD%20Th%E1%BA%BF%20-%20H%C3%B2a%20Nh%C3%A2n.mp3",
+    "href" : "https://archive.org/download/47d9a3d654571b40f47038b213405efd/1-tu-thu-lanh-dao-thuat-xu-the-hoa-nhan.mp3",
     "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân",
     "children" : [ ]
   } ],

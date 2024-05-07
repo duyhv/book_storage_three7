@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 51294,
+    "published" : "2024-05-07",
+    "duration" : 25647,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p01.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/1-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2841,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p02.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/2-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2858,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p03.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/3-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2554,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p04.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/4-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2643,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p05.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/5-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2708,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p06.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/6-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2217,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p07.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/7-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2430,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p08.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/8-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2621,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p09.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/9-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1878,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p10.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/10-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2897,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p01.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/1-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p01.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p02.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/2-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p02.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p03.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/3-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p03.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p04.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/4-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p04.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p05.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/5-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p05.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p06.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/6-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p06.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p07.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/7-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p07.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p08.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/8-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p08.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p09.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/9-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p09.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc.sna/co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc_p10.mp3",
+    "href" : "https://archive.org/download/4762132352885b8b91160440bef9b5d8/10-co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc-p10.mp3",
     "title" : "co-mot-mam-hoa-da-nhu-duoi-tro-tan-le-minh-quoc p10",
     "children" : [ ]
   } ],

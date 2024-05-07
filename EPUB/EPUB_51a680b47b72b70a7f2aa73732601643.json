@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 32493,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/1.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/1-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-1-mc-hue-leo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7335,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/2.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/2-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-2-mc-hue-leo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7861,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/3.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/3-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-3-mc-hue-leo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7209,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/4.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/4-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-4-het-mc-hue-leo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 10088,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/1.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/1-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-1-mc-hue-leo.mp3",
     "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 1 ] - MC HUÊ LEO",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/2.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/2-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-2-mc-hue-leo.mp3",
     "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 2 ] - MC HUÊ LEO",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/3.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/3-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-3-mc-hue-leo.mp3",
     "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 3 ] - MC HUÊ LEO",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuoc-song-binh-than-hoan-my-sau-khi-trung-sinh/4.mp3",
+    "href" : "https://archive.org/download/51a680b47b72b70a7f2aa73732601643/4-cuoc-song-binh-than-hoan-my-sau-khi-trong-sinh-tap-4-het-mc-hue-leo.mp3",
     "title" : "CUỘC SỐNG BÌNH THẢN HOÀN MỸ SAU KHI TRỌNG SINH [ TẬP 4 HẾT ] - MC HUÊ LEO",
     "children" : [ ]
   } ],

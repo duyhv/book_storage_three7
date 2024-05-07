@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 15202,
+    "published" : "2024-05-07",
+    "duration" : 7601,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-1.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/1-vo-thi-sau-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 183,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-2.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/2-vo-thi-sau-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 931,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-3.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/3-vo-thi-sau-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1025,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-4.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/4-vo-thi-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1137,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-5.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/5-vo-thi-sau-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1023,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-6.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/6-vo-thi-sau-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1174,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-7.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/7-vo-thi-sau-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2128,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-1.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/1-vo-thi-sau-01.mp3",
     "title" : "VO THI SAU 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-2.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/2-vo-thi-sau-02.mp3",
     "title" : "VO THI SAU 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-3.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/3-vo-thi-sau-03.mp3",
     "title" : "VO THI SAU 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-4.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/4-vo-thi-4.mp3",
     "title" : "vo-thi-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-5.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/5-vo-thi-sau-06.mp3",
     "title" : "VO THI SAU 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-6.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/6-vo-thi-sau-07.mp3",
     "title" : "VO THI SAU 07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-thi-7/vo-thi-7.mp3",
+    "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/7-vo-thi-sau-08.mp3",
     "title" : "VO THI SAU 08",
     "children" : [ ]
   } ],

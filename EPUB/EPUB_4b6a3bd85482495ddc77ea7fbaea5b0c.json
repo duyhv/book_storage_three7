@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 25055,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-1.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/1-uy-co-tu-va-aaa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2453,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-2.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/2-uy-co-tu-va-aaa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6761,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-3.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/3-uy-co-tu-va-aaa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3583,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-4.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/4-uy-co-tu-va-aaa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3660,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-5.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/5-uy-co-tu-va-aaa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2885,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-6.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/6-uy-co-tu-va-aaa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2514,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-7.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/7-72.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3199,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-1.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/1-uy-co-tu-va-aaa.mp3",
     "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㄀",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-2.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/2-uy-co-tu-va-aaa.mp3",
     "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㜀",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-3.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/3-uy-co-tu-va-aaa.mp3",
     "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㈀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-4.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/4-uy-co-tu-va-aaa.mp3",
     "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 ㌀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-5.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/5-uy-co-tu-va-aaa.mp3",
     "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㐀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-6.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/6-uy-co-tu-va-aaa.mp3",
     "title" : "﹑uy.̠Co.́ͣ Tu.̠̉va/＃ 㜀㈀ 䬀攀ȃă 匀愀ă挀栀 섀瀀 䐀甀⌃渀最 琀爀漀渀最 䬀椀渀栀 䐀漀愀渀栀㨀 䬀뼞 匀挀栀 㔀㄀",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quy-coc-2/quy-coc-7.mp3",
+    "href" : "https://archive.org/download/4b6a3bd85482495ddc77ea7fbaea5b0c/7-72.mp3",
     "title" : "72",
     "children" : [ ]
   } ],
