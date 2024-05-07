@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 59174,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/baqhd/01.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2001%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/1-01-tieu-thuyet-trinh-tham-bi-an-quan-hau-den-phan-01-doc-truyen-dem-khuya-vov.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8285,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/baqhd/02.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2002%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/2-02-tieu-thuyet-trinh-tham-bi-an-quan-hau-den-phan-02-doc-truyen-dem-khuya-vov.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8356,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/baqhd/03.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2003%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/3-03-tieu-thuyet-trinh-tham-bi-an-quan-hau-den-phan-03-doc-truyen-dem-khuya-vov.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8281,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/baqhd/04.BiAnQuanHauDen-04.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/4-04-bianquanhauden-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8172,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/baqhd/05.BiAnQuanHauDen-05.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/5-05-bianquanhauden-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6554,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/baqhd/06.BiAnQuanHauDen-06.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/6-06-bianquanhauden-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6642,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/baqhd/07.BiAnQuanHauDen-07.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/7-07-bianquanhauden-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6446,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/baqhd/08.BiAnQuanHauDen-08end.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/8-08-bianquanhauden-08end.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6438,
@@ -101,35 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/baqhd/01.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2001%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/1-01-tieu-thuyet-trinh-tham-bi-an-quan-hau-den-phan-01-doc-truyen-dem-khuya-vov.mp3",
     "title" : "01.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 01   Đọc truyện đêm khuya VOV",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/baqhd/02.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2002%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/2-02-tieu-thuyet-trinh-tham-bi-an-quan-hau-den-phan-02-doc-truyen-dem-khuya-vov.mp3",
     "title" : "02.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 02   Đọc truyện đêm khuya VOV",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/baqhd/03.Tie%CC%82%CC%89u%20thuye%CC%82%CC%81t%20trinh%20tha%CC%81m_%20Bi%CC%81%20a%CC%82%CC%89n%20qua%CC%82n%20ha%CC%A3%CC%82u%20%C4%91en%20pha%CC%82%CC%80n%2003%20_%20%C4%90o%CC%A3c%20truye%CC%A3%CC%82n%20%C4%91e%CC%82m%20khuya%20VOV.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/3-03-tieu-thuyet-trinh-tham-bi-an-quan-hau-den-phan-03-doc-truyen-dem-khuya-vov.mp3",
     "title" : "03.Tiểu thuyết trinh thám  Bí ẩn quân hậu đen phần 03   Đọc truyện đêm khuya VOV",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/baqhd/04.BiAnQuanHauDen-04.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/4-04-bianquanhauden-04.mp3",
     "title" : "04.BiAnQuanHauDen-04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/baqhd/05.BiAnQuanHauDen-05.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/5-05-bianquanhauden-05.mp3",
     "title" : "05.BiAnQuanHauDen-05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/baqhd/06.BiAnQuanHauDen-06.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/6-06-bianquanhauden-06.mp3",
     "title" : "06.BiAnQuanHauDen-06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/baqhd/07.BiAnQuanHauDen-07.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/7-07-bianquanhauden-07.mp3",
     "title" : "07.BiAnQuanHauDen-07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/baqhd/08.BiAnQuanHauDen-08end.mp3",
+    "href" : "https://archive.org/download/592e25784e427a40c2ce965411ac3a56/8-08-bianquanhauden-08end.mp3",
     "title" : "08.BiAnQuanHauDen-08end",
     "children" : [ ]
   } ],
