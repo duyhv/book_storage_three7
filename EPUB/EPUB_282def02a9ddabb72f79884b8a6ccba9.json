@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 26191,
+    "published" : "2024-05-08",
+    "duration" : 15422,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/01.MucLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/1-01-mucluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2093,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/02.Buoc1_HieuRoTaiSaoLaiLaBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/2-02-buoc1-hieurotaisaolailabatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2204,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/03.Buoc2_MuaVaBanDungThoiDiemChuKyBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/3-03-buoc2-muavabandungthoidiemchukybatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1971,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/04.Buoc3_MuaDungLoaiBDSDungViTriVaXuHuong_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/4-04-buoc3-muadungloaibdsdungvitrivaxuhuong-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1023,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/05.Buoc4_SuDungVoVaHuyDongVonMotCachThongMinh_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/5-05-buoc4-sudungvovahuydongvonmotcachthongminh-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2449,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/06.Buoc5_DamPhanHieuQuaDamPhanDeLaiNgayKhiMua_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/6-06-buoc5-damphanhieuquadamphandelaingaykhimua-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1315,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/07.Buoc6_GiauCoCungDongDoiVaTranhNhungSaiLamHaySongTrongCongSongBDS.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/7-07-buoc6-giaucocungdongdoivatranhnhungsailamhaysongtrongcongsongbds.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 949,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/08.Buoc7_SoHuuBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/8-08-buoc7-sohuubatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1458,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/09.Buoc8_GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/9-09-buoc8-giatanggiatrigiuvanhanbannhungconngongdetrungvang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 924,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/10.TongKet_PhuLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/10-10-tongket-phuluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1036,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/01.MucLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/1-01-mucluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "01.MucLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/02.Buoc1_HieuRoTaiSaoLaiLaBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/2-02-buoc1-hieurotaisaolailabatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/03.Buoc2_MuaVaBanDungThoiDiemChuKyBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/3-03-buoc2-muavabandungthoidiemchukybatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "03.Buoc2 MuaVaBanDungThoiDiemChuKyBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/04.Buoc3_MuaDungLoaiBDSDungViTriVaXuHuong_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/4-04-buoc3-muadungloaibdsdungvitrivaxuhuong-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "04.Buoc3 MuaDungLoaiBDSDungViTriVaXuHuong BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/05.Buoc4_SuDungVoVaHuyDongVonMotCachThongMinh_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/5-05-buoc4-sudungvovahuydongvonmotcachthongminh-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/06.Buoc5_DamPhanHieuQuaDamPhanDeLaiNgayKhiMua_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/6-06-buoc5-damphanhieuquadamphandelaingaykhimua-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "06.Buoc5 DamPhanHieuQuaDamPhanDeLaiNgayKhiMua BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/07.Buoc6_GiauCoCungDongDoiVaTranhNhungSaiLamHaySongTrongCongSongBDS.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/7-07-buoc6-giaucocungdongdoivatranhnhungsailamhaysongtrongcongsongbds.mp3",
     "title" : "07.Buoc6 GiauCoCungDongDoiVaTranhNhungSaiLamHaySongTrongCongSongBDS",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/08.Buoc7_SoHuuBatDongSan_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/8-08-buoc7-sohuubatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "08.Buoc7 SoHuuBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/09.Buoc8_GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/9-09-buoc8-giatanggiatrigiuvanhanbannhungconngongdetrungvang.mp3",
     "title" : "09.Buoc8 GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-giau-co-thinh-vuong-tu-bat-dong-san.sna/10.TongKet_PhuLuc_BiQuyetGiauCoThinhVuongTuBatDongSan.mp3",
+    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/10-10-tongket-phuluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "10.TongKet PhuLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   } ],
