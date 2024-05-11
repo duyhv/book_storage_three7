@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-11",
     "duration" : 65762,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-1.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/1-quyen-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 12517,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-2.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/2-quyen-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 10646,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-3.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/3-quyen-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 12137,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-4.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/4-quyen-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 11606,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-5.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/5-quyen-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6864,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-6.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/6-quyen-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9332,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-7.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/7-quyen-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2660,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-1.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/1-quyen-1.mp3",
     "title" : "quyen-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-2.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/2-quyen-2.mp3",
     "title" : "quyen-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-3.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/3-quyen-3.mp3",
     "title" : "quyen-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-4.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/4-quyen-4.mp3",
     "title" : "quyen-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-5.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/5-quyen-5.mp3",
     "title" : "quyen-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-6.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/6-quyen-6.mp3",
     "title" : "quyen-6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quyen-1_202203/quyen-7.mp3",
+    "href" : "https://archive.org/download/286581c6ff817adf484f8e94729bfcf1/7-quyen-7.mp3",
     "title" : "quyen-7",
     "children" : [ ]
   } ],
