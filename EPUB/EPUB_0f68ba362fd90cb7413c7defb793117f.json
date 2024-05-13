@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 44688,
+    "published" : "2024-05-13",
+    "duration" : 22344,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/01.T%E1%BA%BFt-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/1-01-tet-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1285,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/02.H%E1%BB%8D-%C4%91ang-%C4%91%E1%BA%BFn-%C4%91%E1%BA%A5y%21-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/2-02-ho-dang-den-day-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1234,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/03.Vi%E1%BB%87t-c%E1%BB%99ng-th%C3%AC-%E1%BB%9F-b%C3%AAn-trong-c%C3%B2n-nh%E1%BB%AFng-l%E1%BB%B1c-l%C6%B0%E1%BB%A3ng-c%E1%BB%A9u-vi%E1%BB%87n-c%E1%BB%A7a-M%E1%BB%B9-th%C3%AC-l%E1%BA%A1i-%E1%BB%9F-b%C3%AAn-ngo%C3%A0i-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/3-03-viet-cong-thi-o-ben-trong-con-nhung-luc-luong-cuu-vien-cua-my-thi-lai-o-ben-ngoai-mc-hai-yen-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1248,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/04.C%C3%A1c-nh%C3%A0-b%C3%A1o-h%C3%ACnh-nh%C6%B0-kh%C3%B4ng-c%C3%B2n-tin-v%C3%A0o-tai-m%C3%ACnh-n%E1%BB%AFa-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/4-04-cac-nha-bao-hinh-nhu-khong-con-tin-vao-tai-minh-nua-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1098,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/05.M%E1%BB%97i%20khi%20ph%C3%A1t%20%C4%91%E1%BB%99ng%20chi%E1%BA%BFn%20tranh%2C%20ta%20ph%E1%BA%A3i%20k%E1%BA%BFt%20th%C3%BAc%20n%C3%B3%20trong%20v%C3%B2ng%206%20th%C3%A1ng-MC%20H%E1%BA%A3i%20Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/5-05-moi-khi-phat-dong-chien-tranh-ta-phai-ket-thuc-no-trong-vong-6-thang-mc-hai-yen-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1147,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/06.CP-kh%C3%B4ng-ch%E1%BA%A5p-nh%E1%BA%ADn-%C4%91%E1%BB%81-ngh%E1%BB%8B-n%C3%A9m-bom-H%E1%BA%A3i-Ph%C3%B2ng-v%C3%AC-s%E1%BB%A3-tr%C3%BAng-t%C3%A0u-c%E1%BB%A7a-Li%C3%AAn-X%C3%B4-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/6-06-cp-khong-chap-nhan-de-nghi-nem-bom-hai-phong-vi-so-trung-tau-cua-lien-xo-mc-hai-yen-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1270,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/07.Cu%E1%BB%99c-T%E1%BB%95ng-c%C3%B4ng-k%C3%ADch-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/7-07-cuoc-tong-cong-kich-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1142,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/08.%C3%80%2C-ch%C3%BAng-ta-%C4%91ang-th%E1%BA%AFng-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/8-08-a-chung-ta-dang-thang-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1048,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/09.Ti%E1%BA%BFng-s%C3%BAng-m%E1%BB%9F-m%C3%A0n-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/9-09-tieng-sung-mo-man-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1105,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/10.Ch%C3%BAng-t%C3%B4i-%C4%91%C3%A3-b%E1%BB%8B-m%E1%BB%99t-%C4%91%C3%B2n-tr%E1%BB%B1c-ti%E1%BA%BFp-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/10-10-chung-toi-da-bi-mot-don-truc-tiep-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1092,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/11.Kh%C3%B4ng-th%E1%BB%83-chi%E1%BA%BFm-%C4%91%C6%B0%E1%BB%A3c-Hu%E1%BA%BF-trong-th%E1%BB%9Di-gian-d%C3%A0i-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/11-11-khong-the-chiem-duoc-hue-trong-thoi-gian-dai-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1140,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/12.T%C6%B0%E1%BB%9Bng-Loan---%C4%90%C6%B0%E1%BB%9Dng-bay-c%E1%BB%A7a-vi%C3%AAn-%C4%91%E1%BA%A1n-duy-nh%E1%BA%A5t-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/12-12-tuong-loan-duong-bay-cua-vien-dan-duy-nhat-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1246,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/13.Ch%C3%BAng-ta-%C4%91ang-%E1%BB%9F-trong-m%E1%BB%99t-tr%E1%BA%ADn-%C4%91%C3%A1nh-b%E1%BA%A5t-ph%C3%A2n-th%E1%BA%AFng-b%E1%BA%A1i-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/13-13-chung-ta-dang-o-trong-mot-tran-danh-bat-phan-thang-bai-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1087,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/14.T%C6%B0%E1%BB%9Bng-Wheeler-%C4%91i-ch%E1%BB%AFa-ch%C3%A1y-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/14-14-tuong-wheeler-di-chua-chay-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 972,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/15.B%C3%AD-m%E1%BA%ADt-b%E1%BB%8B-l%E1%BB%99-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/15-15-bi-mat-bi-lo-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1129,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/16.Y%C3%AAu-c%E1%BA%A7u-t%C4%83ng-th%C3%AAm-206-000-qu%C3%A2n-sang-Vi%E1%BB%87t-Nam-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/16-16-yeu-cau-tang-them-206-000-quan-sang-viet-nam-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 927,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/17.B%E1%BB%8F-lu%C3%B4n-c%E1%BA%A3-gh%E1%BA%BF-t%E1%BB%95ng-th%E1%BB%91ng-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/17-17-bo-luon-ca-ghe-tong-thong-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1035,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/18.Jonson-%C4%91ang-suy-t%C3%ADnh-v%C3%A0-t%C3%ACm-ph%C6%B0%C6%A1ng-s%C3%A1ch-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/18-18-jonson-dang-suy-tinh-va-tim-phuong-sach-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 998,
@@ -180,7 +180,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/19.Ch%C3%ADnh-ph%E1%BB%A7-ph%E1%BA%A3i-t%C3%ACm-c%C3%A1ch-ti%E1%BA%BFn-t%E1%BB%9Bi-th%C6%B0%C6%A1ng-l%C6%B0%E1%BB%A3ng-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/19-19-chinh-phu-phai-tim-cach-tien-toi-thuong-luong-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 995,
@@ -188,7 +188,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/20.Ch%C3%BAng-t%C3%B4i-s%E1%BA%BD-h%C3%A0nh-%C4%91%E1%BB%99ng-theo-m%E1%BB%87nh-l%E1%BB%87nh-Tr%E1%BB%9Di-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/20-20-chung-toi-se-hanh-dong-theo-menh-lenh-troi-mc-hai-yen-kenhsachnoi-com-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1146,
@@ -197,83 +197,83 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/01.T%E1%BA%BFt-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/1-01-tet-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "01.Tết-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/02.H%E1%BB%8D-%C4%91ang-%C4%91%E1%BA%BFn-%C4%91%E1%BA%A5y%21-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/2-02-ho-dang-den-day-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "02.Họ-đang-đến-đấy!-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/03.Vi%E1%BB%87t-c%E1%BB%99ng-th%C3%AC-%E1%BB%9F-b%C3%AAn-trong-c%C3%B2n-nh%E1%BB%AFng-l%E1%BB%B1c-l%C6%B0%E1%BB%A3ng-c%E1%BB%A9u-vi%E1%BB%87n-c%E1%BB%A7a-M%E1%BB%B9-th%C3%AC-l%E1%BA%A1i-%E1%BB%9F-b%C3%AAn-ngo%C3%A0i-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/3-03-viet-cong-thi-o-ben-trong-con-nhung-luc-luong-cuu-vien-cua-my-thi-lai-o-ben-ngoai-mc-hai-yen-.mp3",
     "title" : "03.Việt-cộng-thì-ở-bên-trong-còn-những-lực-lượng-cứu-viện-của-Mỹ-thì-lại-ở-bên-ngoài-MC-Hải-Yến...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/04.C%C3%A1c-nh%C3%A0-b%C3%A1o-h%C3%ACnh-nh%C6%B0-kh%C3%B4ng-c%C3%B2n-tin-v%C3%A0o-tai-m%C3%ACnh-n%E1%BB%AFa-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/4-04-cac-nha-bao-hinh-nhu-khong-con-tin-vao-tai-minh-nua-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "04.Các-nhà-báo-hình-như-không-còn-tin-vào-tai-mình-nữa-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/05.M%E1%BB%97i%20khi%20ph%C3%A1t%20%C4%91%E1%BB%99ng%20chi%E1%BA%BFn%20tranh%2C%20ta%20ph%E1%BA%A3i%20k%E1%BA%BFt%20th%C3%BAc%20n%C3%B3%20trong%20v%C3%B2ng%206%20th%C3%A1ng-MC%20H%E1%BA%A3i%20Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/5-05-moi-khi-phat-dong-chien-tranh-ta-phai-ket-thuc-no-trong-vong-6-thang-mc-hai-yen-.mp3",
     "title" : "05.Mỗi khi phát động chiến tranh, ta phải kết thúc nó trong vòng 6 tháng-MC Hải Yến...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/06.CP-kh%C3%B4ng-ch%E1%BA%A5p-nh%E1%BA%ADn-%C4%91%E1%BB%81-ngh%E1%BB%8B-n%C3%A9m-bom-H%E1%BA%A3i-Ph%C3%B2ng-v%C3%AC-s%E1%BB%A3-tr%C3%BAng-t%C3%A0u-c%E1%BB%A7a-Li%C3%AAn-X%C3%B4-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/6-06-cp-khong-chap-nhan-de-nghi-nem-bom-hai-phong-vi-so-trung-tau-cua-lien-xo-mc-hai-yen-.mp3",
     "title" : "06.CP-không-chấp-nhận-đề-nghị-ném-bom-Hải-Phòng-vì-sợ-trúng-tàu-của-Liên-Xô-MC-Hải-Yến...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/07.Cu%E1%BB%99c-T%E1%BB%95ng-c%C3%B4ng-k%C3%ADch-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/7-07-cuoc-tong-cong-kich-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "07.Cuộc-Tổng-công-kích-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/08.%C3%80%2C-ch%C3%BAng-ta-%C4%91ang-th%E1%BA%AFng-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/8-08-a-chung-ta-dang-thang-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "08.À,-chúng-ta-đang-thắng-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/09.Ti%E1%BA%BFng-s%C3%BAng-m%E1%BB%9F-m%C3%A0n-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/9-09-tieng-sung-mo-man-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "09.Tiếng-súng-mở-màn-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/10.Ch%C3%BAng-t%C3%B4i-%C4%91%C3%A3-b%E1%BB%8B-m%E1%BB%99t-%C4%91%C3%B2n-tr%E1%BB%B1c-ti%E1%BA%BFp-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/10-10-chung-toi-da-bi-mot-don-truc-tiep-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "10.Chúng-tôi-đã-bị-một-đòn-trực-tiếp-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/11.Kh%C3%B4ng-th%E1%BB%83-chi%E1%BA%BFm-%C4%91%C6%B0%E1%BB%A3c-Hu%E1%BA%BF-trong-th%E1%BB%9Di-gian-d%C3%A0i-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/11-11-khong-the-chiem-duoc-hue-trong-thoi-gian-dai-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "11.Không-thể-chiếm-được-Huế-trong-thời-gian-dài-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/12.T%C6%B0%E1%BB%9Bng-Loan---%C4%90%C6%B0%E1%BB%9Dng-bay-c%E1%BB%A7a-vi%C3%AAn-%C4%91%E1%BA%A1n-duy-nh%E1%BA%A5t-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/12-12-tuong-loan-duong-bay-cua-vien-dan-duy-nhat-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "12.Tướng-Loan---Đường-bay-của-viên-đạn-duy-nhất-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/13.Ch%C3%BAng-ta-%C4%91ang-%E1%BB%9F-trong-m%E1%BB%99t-tr%E1%BA%ADn-%C4%91%C3%A1nh-b%E1%BA%A5t-ph%C3%A2n-th%E1%BA%AFng-b%E1%BA%A1i-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/13-13-chung-ta-dang-o-trong-mot-tran-danh-bat-phan-thang-bai-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "13.Chúng-ta-đang-ở-trong-một-trận-đánh-bất-phân-thắng-bại-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/14.T%C6%B0%E1%BB%9Bng-Wheeler-%C4%91i-ch%E1%BB%AFa-ch%C3%A1y-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/14-14-tuong-wheeler-di-chua-chay-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "14.Tướng-Wheeler-đi-chữa-cháy-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/15.B%C3%AD-m%E1%BA%ADt-b%E1%BB%8B-l%E1%BB%99-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/15-15-bi-mat-bi-lo-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "15.Bí-mật-bị-lộ-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/16.Y%C3%AAu-c%E1%BA%A7u-t%C4%83ng-th%C3%AAm-206-000-qu%C3%A2n-sang-Vi%E1%BB%87t-Nam-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/16-16-yeu-cau-tang-them-206-000-quan-sang-viet-nam-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "16.Yêu-cầu-tăng-thêm-206-000-quân-sang-Việt-Nam-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/17.B%E1%BB%8F-lu%C3%B4n-c%E1%BA%A3-gh%E1%BA%BF-t%E1%BB%95ng-th%E1%BB%91ng-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/17-17-bo-luon-ca-ghe-tong-thong-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "17.Bỏ-luôn-cả-ghế-tổng-thống-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/18.Jonson-%C4%91ang-suy-t%C3%ADnh-v%C3%A0-t%C3%ACm-ph%C6%B0%C6%A1ng-s%C3%A1ch-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/18-18-jonson-dang-suy-tinh-va-tim-phuong-sach-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "18.Jonson-đang-suy-tính-và-tìm-phương-sách-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/19.Ch%C3%ADnh-ph%E1%BB%A7-ph%E1%BA%A3i-t%C3%ACm-c%C3%A1ch-ti%E1%BA%BFn-t%E1%BB%9Bi-th%C6%B0%C6%A1ng-l%C6%B0%E1%BB%A3ng-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/19-19-chinh-phu-phai-tim-cach-tien-toi-thuong-luong-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "19.Chính-phủ-phải-tìm-cách-tiến-tới-thương-lượng-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kenhsachnoi.com-tet-don-oberdorfer/20.Ch%C3%BAng-t%C3%B4i-s%E1%BA%BD-h%C3%A0nh-%C4%91%E1%BB%99ng-theo-m%E1%BB%87nh-l%E1%BB%87nh-Tr%E1%BB%9Di-MC-H%E1%BA%A3i-Y%E1%BA%BFn_%28KenhSachNoi.Com%29.mp3",
+    "href" : "https://archive.org/download/0f68ba362fd90cb7413c7defb793117f/20-20-chung-toi-se-hanh-dong-theo-menh-lenh-troi-mc-hai-yen-kenhsachnoi-com-.mp3",
     "title" : "20.Chúng-tôi-sẽ-hành-động-theo-mệnh-lệnh-Trời-MC-Hải-Yến (KenhSachNoi.Com)",
     "children" : [ ]
   } ],
