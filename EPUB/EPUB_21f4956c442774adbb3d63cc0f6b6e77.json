@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-07",
+    "published" : "2024-05-13",
     "duration" : 42445,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/EPUB/EPUB_21f4956c442774adbb3d63cc0f6b6e77.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/EPUB/EPUB_21f4956c442774adbb3d63cc0f6b6e77.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three7/main/IMAGE/IMAGE_21f4956c442774adbb3d63cc0f6b6e77.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three7/main/IMAGE/IMAGE_21f4956c442774adbb3d63cc0f6b6e77.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-01.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/1-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1810,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-02.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/2-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1577,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-03.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/3-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1915,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-04.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/4-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2043,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-05.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/5-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1521,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-06.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/6-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1793,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-07.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/7-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1839,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-08.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/8-sach-noi-tam-phap-ly-tu-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2050,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-09.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/9-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1945,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-10.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/10-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2209,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-11.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/11-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1936,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-12.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/12-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2355,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-13.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/13-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1993,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-14.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/14-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2139,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-15.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/15-ly-tu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1849,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-16.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/16-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2746,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-17.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/17-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2368,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-18.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/18-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2965,
@@ -180,7 +180,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-19.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/19-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2145,
@@ -188,7 +188,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-20.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/20-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1915,
@@ -196,7 +196,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-21.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/21-sach-noi-tam-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1332,
@@ -205,87 +205,87 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-01.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/1-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-02.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/2-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-03.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/3-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-04.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/4-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-05.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/5-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-06.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/6-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-07.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/7-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-08.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/8-sach-noi-tam-phap-ly-tu-.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP -LÝ TỨ -",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-09.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/9-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-10.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/10-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-11.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/11-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-12.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/12-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-13.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/13-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-14.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/14-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-15.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/15-ly-tu.mp3",
     "title" : "LÝ TỨ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-16.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/16-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-17.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/17-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-18.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/18-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-19.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/19-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-20.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/20-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-phap-18/tam-phap-21.mp3",
+    "href" : "https://archive.org/download/21f4956c442774adbb3d63cc0f6b6e77/21-sach-noi-tam-phap.mp3",
     "title" : "SÁCH NÓI TÂM PHÁP",
     "children" : [ ]
   } ],

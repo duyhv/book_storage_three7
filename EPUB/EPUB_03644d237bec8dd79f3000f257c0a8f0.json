@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 14485,
+    "published" : "2024-05-13",
+    "duration" : 9193,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/khu-rung-ky-dieu.sna/KHU_RUNG_KY_DIEU_01.mp3",
+    "href" : "https://archive.org/download/03644d237bec8dd79f3000f257c0a8f0/1-khu-rung-ky-dieu-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2689,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khu-rung-ky-dieu.sna/KHU_RUNG_KY_DIEU_02.mp3",
+    "href" : "https://archive.org/download/03644d237bec8dd79f3000f257c0a8f0/2-khu-rung-ky-dieu-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2603,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khu-rung-ky-dieu.sna/KHU_RUNG_KY_DIEU_03.mp3",
+    "href" : "https://archive.org/download/03644d237bec8dd79f3000f257c0a8f0/3-khu-rung-ky-dieu-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3901,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/khu-rung-ky-dieu.sna/KHU_RUNG_KY_DIEU_01.mp3",
+    "href" : "https://archive.org/download/03644d237bec8dd79f3000f257c0a8f0/1-khu-rung-ky-dieu-01.mp3",
     "title" : "KHU RUNG KY DIEU 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khu-rung-ky-dieu.sna/KHU_RUNG_KY_DIEU_02.mp3",
+    "href" : "https://archive.org/download/03644d237bec8dd79f3000f257c0a8f0/2-khu-rung-ky-dieu-02.mp3",
     "title" : "KHU RUNG KY DIEU 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khu-rung-ky-dieu.sna/KHU_RUNG_KY_DIEU_03.mp3",
+    "href" : "https://archive.org/download/03644d237bec8dd79f3000f257c0a8f0/3-khu-rung-ky-dieu-03.mp3",
     "title" : "KHU RUNG KY DIEU 03",
     "children" : [ ]
   } ],
