@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-05",
-    "duration" : 23127,
+    "published" : "2024-09-20",
+    "duration" : 23131,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/1-su-that-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6000,
+    "duration" : 6001,
     "title" : "su-that-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/2-su-that-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6000,
+    "duration" : 6001,
     "title" : "su-that-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/3-su-that-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6000,
+    "duration" : 6001,
     "title" : "su-that-3",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/88cbbd707c42306ca6285d1c5b7c1369/4-su-that-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5127,
+    "duration" : 5128,
     "title" : "su-that-4",
     "properties" : null,
     "alternate" : null

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-04",
-    "duration" : 13193,
+    "published" : "2024-09-20",
+    "duration" : 13196,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/1-thoi-quen-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "thoi-quen-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/2-thoi-quen-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "thoi-quen-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/8bec0c64b870d7c88d1b7e2a6a53de8f/3-thoi-quen-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "thoi-quen-3",
     "properties" : null,
     "alternate" : null

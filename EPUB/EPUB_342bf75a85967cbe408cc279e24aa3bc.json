@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-16",
-    "duration" : 123637,
+    "published" : "2024-09-20",
+    "duration" : 123650,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/2-thach-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4807,
+    "duration" : 4808,
     "title" : "thach-02",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/3-thach-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3936,
+    "duration" : 3937,
     "title" : "thach-03",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/6-thach-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4970,
+    "duration" : 4971,
     "title" : "thach-06",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/7-thach-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4518,
+    "duration" : 4519,
     "title" : "thach-07",
     "properties" : null,
     "alternate" : null
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/10-thach-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4706,
+    "duration" : 4707,
     "title" : "thach-10",
     "properties" : null,
     "alternate" : null
@@ -127,7 +127,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/12-thach-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5732,
+    "duration" : 5733,
     "title" : "thach-12",
     "properties" : null,
     "alternate" : null
@@ -135,7 +135,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/13-thach-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5350,
+    "duration" : 5351,
     "title" : "thach-13",
     "properties" : null,
     "alternate" : null
@@ -143,7 +143,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/14-thach-14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5704,
+    "duration" : 5705,
     "title" : "thach-14",
     "properties" : null,
     "alternate" : null
@@ -167,7 +167,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/17-thach-17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5855,
+    "duration" : 5856,
     "title" : "thach-17",
     "properties" : null,
     "alternate" : null
@@ -175,7 +175,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/18-thach-18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5852,
+    "duration" : 5853,
     "title" : "thach-18",
     "properties" : null,
     "alternate" : null
@@ -191,7 +191,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/20-thach-20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5815,
+    "duration" : 5816,
     "title" : "thach-20",
     "properties" : null,
     "alternate" : null
@@ -199,7 +199,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/21-thach-21.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5726,
+    "duration" : 5727,
     "title" : "thach-21",
     "properties" : null,
     "alternate" : null
@@ -207,7 +207,7 @@
     "href" : "https://archive.org/download/342bf75a85967cbe408cc279e24aa3bc/22-thach-22.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5887,
+    "duration" : 5888,
     "title" : "thach-22",
     "properties" : null,
     "alternate" : null

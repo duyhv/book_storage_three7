@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 9494,
+    "published" : "2024-09-20",
+    "duration" : 9498,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/3-thong-diep-cua-nuoc-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1201,
+    "duration" : 1202,
     "title" : "Thông điệp của nước 3",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/4-thong-diep-cua-nuoc-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1266,
+    "duration" : 1267,
     "title" : "Thông điệp của nước 4",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/6-thong-diep-cua-nuoc-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1589,
+    "duration" : 1590,
     "title" : "Thông điệp của nước 6",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/545c3e6b0df5720992ac57712ea4c4e7/7-thong-diep-cua-nuoc-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 434,
+    "duration" : 435,
     "title" : "Thông điệp của nước 7",
     "properties" : null,
     "alternate" : null

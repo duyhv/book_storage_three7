@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-30",
-    "duration" : 15958,
+    "published" : "2024-09-20",
+    "duration" : 15963,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "vuon-cao-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "vuon-cao-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "vuon-cao-3",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
+    "duration" : 3601,
     "title" : "vuon-cao-4",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/c2996633f0485c809d5478b2035459bb/vuon-cao-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1558,
+    "duration" : 1559,
     "title" : "vuon-cao-5",
     "properties" : null,
     "alternate" : null

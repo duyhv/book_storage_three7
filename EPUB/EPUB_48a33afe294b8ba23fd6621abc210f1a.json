@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-07",
-    "duration" : 7601,
+    "published" : "2024-09-20",
+    "duration" : 7607,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/1-vo-thi-sau-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 183,
+    "duration" : 184,
     "title" : "VO THI SAU 01",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/2-vo-thi-sau-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 931,
+    "duration" : 932,
     "title" : "VO THI SAU 02",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/3-vo-thi-sau-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1025,
+    "duration" : 1026,
     "title" : "VO THI SAU 03",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/5-vo-thi-sau-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1023,
+    "duration" : 1024,
     "title" : "VO THI SAU 06",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/6-vo-thi-sau-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1174,
+    "duration" : 1175,
     "title" : "VO THI SAU 07",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/48a33afe294b8ba23fd6621abc210f1a/7-vo-thi-sau-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2128,
+    "duration" : 2129,
     "title" : "VO THI SAU 08",
     "properties" : null,
     "alternate" : null
