@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-28",
-    "duration" : 31816,
+    "published" : "2024-09-21",
+    "duration" : 31834,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/chinh-phu-ngam-dang-tran-con-doan-thi-diem-ngoc-sen-voice-68.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1447,
+    "duration" : 1448,
     "title" : "CHINH PHỤ NGÂM | Đặng Trần Côn | Đoàn Thị Điểm | Ngọc Sen Voice 68",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/che-lan-vien-tieng-hat-con-tau-va-cac-bai-tho-hay-tieu-bieu-ngoc-sen-voice-74.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1201,
+    "duration" : 1202,
     "title" : "CHẾ LAN VIÊN | TIẾNG HÁT CON TÀU và các bài thơ hay tiêu biểu | Ngọc Sen Voice 74",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/con-duyen-het-duyen-va-chuyen-o-vay-trong-ca-dao-viet-ngoc-sen-voice-89.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 950,
+    "duration" : 951,
     "title" : "CÒN DUYÊN HẾT DUYÊN và chuyện Ở VẬY trong CA DAO VIỆT | Ngọc Sen Voice 89",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/huy-can-trang-giang-ao-trang-doan-thuyen-danh-ca-va-cac-bai-tho-tieu-bieu-ngoc-sen-voice-104.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 907,
+    "duration" : 908,
     "title" : "HUY CẬN | Tràng Giang | Áo Trắng | Đoàn Thuyền Đánh Cá và các bài thơ tiêu biểu | Ngọc Sen Voice 104",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/han-mac-tu-tap-tho-gai-que-va-nhung-bai-tho-hay-nsv76.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1406,
+    "duration" : 1407,
     "title" : "HÀN MẶC TỬ | Tập thơ GÁI QUÊ và những bài thơ hay | NSV76",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/han-mac-tu-dau-thuong-day-thon-vi-da-va-nhung-bai-tho-dien-hay-nhat-nsv70.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2740,
+    "duration" : 2741,
     "title" : "HÀN MẶC TỬ | ĐAU THƯƠNG | Đây Thôn Vĩ Dạ và những bài THƠ ĐIÊN hay nhất | NSV70",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/pho-phan-vu-em-oi-ha-noi-pho-phu-quang-ngoc-sen-voice-98.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1498,
+    "duration" : 1499,
     "title" : "Phố | Phan Vũ | Em ơi Hà Nội phố | Phú Quang | Ngọc Sen Voice 98",
     "properties" : null,
     "alternate" : null
@@ -95,7 +95,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-hoang-cam-la-dieu-bong-ben-kia-song-duong-han-nam-quan-va-cac-tac-pham-tieu-bieu-114.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1616,
+    "duration" : 1617,
     "title" : "Thơ HOÀNG CẦM | Lá Diêu Bông_Bên Kia Sông Đuống_Hận Nam Quan và các tác phẩm tiêu biểu | 114",
     "properties" : null,
     "alternate" : null
@@ -103,7 +103,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-luu-quang-vu-tac-gia-cay-tao-no-hoa-pho-ta-ao-cu-va-cac-bai-tho-tieu-bieu-nsv-108.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 952,
+    "duration" : 953,
     "title" : "Thơ LƯU QUANG VŨ | Tác giả Cây táo nở hoa Phố Ta | Áo Cũ và các bài thơ tiêu biểu | NSV 108",
     "properties" : null,
     "alternate" : null
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-luu-trong-lu-tieng-thu-nang-moi-tinh-dien-va-cac-bai-tho-tieu-bieu-ngoc-sen-voice-102.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 951,
+    "duration" : 952,
     "title" : "Thơ LƯU TRỌNG LƯ | Tiếng Thu | Nắng Mới | Tình Điên và các bài thơ tiêu biểu | Ngọc Sen Voice 102",
     "properties" : null,
     "alternate" : null
@@ -127,7 +127,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tho-ttkh-hai-sac-hoa-tigon-va-3-bai-tho-tinh-con-lai-ngoc-sen-voice-73.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 668,
+    "duration" : 669,
     "title" : "Thơ TTKh | Hai Sắc Hoa Tigôn và 3 bài thơ tình còn lại | Ngọc Sen Voice 73",
     "properties" : null,
     "alternate" : null
@@ -135,7 +135,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/truyen-tho-luc-van-tien-nguyen-dinh-chieu-tron-bo-2082-cau-tho-luc-bat-phan-i-ii-hoi-01-10-75.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3203,
+    "duration" : 3204,
     "title" : "Truyện Thơ LỤC VÂN TIÊN | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần I/II Hồi 01-10 |75",
     "properties" : null,
     "alternate" : null
@@ -143,7 +143,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/truyen-tho-luc-van-tien-nguyen-dinh-chieu-tron-bo-2082-cau-tho-luc-bat-phan-cuoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3538,
+    "duration" : 3539,
     "title" : "Truyện Thơ Lục Vân Tiên | NGUYỄN ĐÌNH CHIỂU | Trọn bộ 2082 câu thơ lục bát | Phần cuối",
     "properties" : null,
     "alternate" : null
@@ -151,7 +151,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/tran-dang-khoa-hat-gao-lang-ta-goc-san-va-khoang-troi-cung-nhung-bai-tho-hay-ngoc-sen-voice-46.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1078,
+    "duration" : 1079,
     "title" : "Trần Đăng Khoa | Hạt Gạo Làng Ta | Góc Sân Và Khoảng Trời cùng những bài thơ hay | Ngọc Sen Voice 46",
     "properties" : null,
     "alternate" : null
@@ -159,7 +159,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/to-huu-viet-bac-luom-bam-oi-va-nhung-bai-tho-tieu-bieu-ngoc-sen-voice-103.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2481,
+    "duration" : 2482,
     "title" : "TỐ HỮU | Việt Bắc | Lượm | Bầm Ơi và những bài thơ tiêu biểu | Ngọc Sen Voice 103",
     "properties" : null,
     "alternate" : null
@@ -167,7 +167,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-dieu-tho-tho-voi-vang-va-cac-bai-tho-hay-phan-ii-ong-hoang-tho-tinh-nsv72.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2113,
+    "duration" : 2114,
     "title" : "XUÂN DIỆU | THƠ THƠ | Vội Vàng và các bài thơ hay (Phần II) | Ông Hoàng Thơ Tình | NSV72",
     "properties" : null,
     "alternate" : null
@@ -175,7 +175,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-dieu-tho-tho-day-mua-thu-toi-va-cac-bai-tho-hay-phan-i-ong-hoang-tho-tinh-nsv71.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1621,
+    "duration" : 1622,
     "title" : "XUÂN DIỆU | THƠ THƠ | Đây Mùa Thu Tới và các bài thơ hay (Phần I) | Ông Hoàng Thơ Tình | NSV71",
     "properties" : null,
     "alternate" : null
@@ -183,7 +183,7 @@
     "href" : "https://archive.org/download/d6e269f31afade1791fdbf8b82e826c3/xuan-quynh-nhung-bai-tho-ngot-ngao-nhat-song-thuyen-va-bien-tu-hat-me-cua-anh-ban-tay-em-84.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1790,
+    "duration" : 1791,
     "title" : "XUÂN QUỲNH | Những bài thơ ngọt ngào nhất | Sóng_Thuyền Và Biển_Tự Hát_Mẹ Của Anh_Bàn Tay Em | 84",
     "properties" : null,
     "alternate" : null
