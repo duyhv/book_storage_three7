@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 15429,
+    "published" : "2024-10-22",
+    "duration" : 15424,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,15 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/1-01-mucluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_1-01-mucluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2094,
+    "duration" : 2093,
     "title" : "01.MucLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/2-02-buoc1-hieurotaisaolailabatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_2-02-buoc1-hieurotaisaolailabatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2204,
@@ -52,15 +52,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/3-03-buoc2-muavabandungthoidiemchukybatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_3-03-buoc2-muavabandungthoidiemchukybatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1972,
+    "duration" : 1971,
     "title" : "03.Buoc2 MuaVaBanDungThoiDiemChuKyBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/4-04-buoc3-muadungloaibdsdungvitrivaxuhuong-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_4-04-buoc3-muadungloaibdsdungvitrivaxuhuong-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1023,
@@ -68,15 +68,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/5-05-buoc4-sudungvovahuydongvonmotcachthongminh-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_5-05-buoc4-sudungvovahuydongvonmotcachthongminh-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2450,
+    "duration" : 2449,
     "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/6-06-buoc5-damphanhieuquadamphandelaingaykhimua-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_6-06-buoc5-damphanhieuquadamphandelaingaykhimua-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1316,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/7-07-buoc6-giaucocungdongdoivatranhnhungsailamhaysongtrongcongsongbds.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_7-07-buoc6-giaucocungdongdoivatranhnhungsailamhaysongtrongcongsongbds.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 950,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/8-08-buoc7-sohuubatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_8-08-buoc7-sohuubatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1458,
@@ -100,60 +100,60 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/9-09-buoc8-giatanggiatrigiuvanhanbannhungconngongdetrungvang.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_9-09-buoc8-giatanggiatrigiuvanhanbannhungconngongdetrungvang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 925,
+    "duration" : 924,
     "title" : "09.Buoc8 GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/10-10-tongket-phuluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_10-10-tongket-phuluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1037,
+    "duration" : 1036,
     "title" : "10.TongKet PhuLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/1-01-mucluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_1-01-mucluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "01.MucLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/2-02-buoc1-hieurotaisaolailabatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_2-02-buoc1-hieurotaisaolailabatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "02.Buoc1 HieuRoTaiSaoLaiLaBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/3-03-buoc2-muavabandungthoidiemchukybatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_3-03-buoc2-muavabandungthoidiemchukybatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "03.Buoc2 MuaVaBanDungThoiDiemChuKyBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/4-04-buoc3-muadungloaibdsdungvitrivaxuhuong-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_4-04-buoc3-muadungloaibdsdungvitrivaxuhuong-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "04.Buoc3 MuaDungLoaiBDSDungViTriVaXuHuong BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/5-05-buoc4-sudungvovahuydongvonmotcachthongminh-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_5-05-buoc4-sudungvovahuydongvonmotcachthongminh-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "05.Buoc4 SuDungVoVaHuyDongVonMotCachThongMinh BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/6-06-buoc5-damphanhieuquadamphandelaingaykhimua-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_6-06-buoc5-damphanhieuquadamphandelaingaykhimua-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "06.Buoc5 DamPhanHieuQuaDamPhanDeLaiNgayKhiMua BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/7-07-buoc6-giaucocungdongdoivatranhnhungsailamhaysongtrongcongsongbds.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_7-07-buoc6-giaucocungdongdoivatranhnhungsailamhaysongtrongcongsongbds.mp3",
     "title" : "07.Buoc6 GiauCoCungDongDoiVaTranhNhungSaiLamHaySongTrongCongSongBDS",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/8-08-buoc7-sohuubatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_8-08-buoc7-sohuubatdongsan-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "08.Buoc7 SoHuuBatDongSan BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/9-09-buoc8-giatanggiatrigiuvanhanbannhungconngongdetrungvang.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_9-09-buoc8-giatanggiatrigiuvanhanbannhungconngongdetrungvang.mp3",
     "title" : "09.Buoc8 GiaTangGiaTriGiuVaNhanBanNhungConNgongDeTrungVang",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/282def02a9ddabb72f79884b8a6ccba9/10-10-tongket-phuluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/282def02a9ddabb72f79884b8a6ccba9/cloudflare_10-10-tongket-phuluc-biquyetgiaucothinhvuongtubatdongsan.mp3",
     "title" : "10.TongKet PhuLuc BiQuyetGiauCoThinhVuongTuBatDongSan",
     "children" : [ ]
   } ],
