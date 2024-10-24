@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 8094,
+    "published" : "2024-10-24",
+    "duration" : 8093,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,16 +36,16 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/47d9a3d654571b40f47038b213405efd/1-tu-thu-lanh-dao-thuat-xu-the-hoa-nhan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/47d9a3d654571b40f47038b213405efd/cloudflare_1-tu-thu-lanh-dao-thuat-xu-the-hoa-nhan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8094,
+    "duration" : 8093,
     "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/47d9a3d654571b40f47038b213405efd/1-tu-thu-lanh-dao-thuat-xu-the-hoa-nhan.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/47d9a3d654571b40f47038b213405efd/cloudflare_1-tu-thu-lanh-dao-thuat-xu-the-hoa-nhan.mp3",
     "title" : "Tứ Thư Lãnh Đạo - Thuật Xử Thế - Hòa Nhân",
     "children" : [ ]
   } ],
